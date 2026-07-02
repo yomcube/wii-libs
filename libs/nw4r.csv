@@ -1,0 +1,818 @@
+NintendoWare/, ISSM_D; SdR_D; TFP2_D_D; TFP2_D_E
+NintendoWare/Revolution/, ISSM_D; SdR_D; TFP2_D_D; TFP2_D_E
+NintendoWare/Revolution/Library/, ISSM_D; SdR_D; TFP2_D_D; TFP2_D_E
+NintendoWare/Revolution/Library/include/, ISSM_D; SdR_D; TFP2_D_D; TFP2_D_E
+NintendoWare/Revolution/Library/include/nw4r/, ISSM_D; SdR_D; TFP2_D_D; TFP2_D_E
+NintendoWare/Revolution/Library/include/nw4r/config/, ISSM_D; SdR_D; TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/config/compiler/, ISSM_D; SdR_D; TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/config/compiler/cwcc.h, ISSM_D; SdR_D; TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/config/compiler.h, ISSM_D; SdR_D; TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/config/platform/, ISSM_D; SdR_D; TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/config/platform/rvl.h, ISSM_D; SdR_D; TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/config/platform.h, ISSM_D; SdR_D; TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/config.h, ISSM_D; SdR_D; TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/db/, ISSM_D; SdR_D; TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/db/assert.h, ISSM_D; SdR_D; TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/db/DbgPrint.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/db/DbgPrintBase.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/ef/, TFP2_D_D; TFP2_D_E
+NintendoWare/Revolution/Library/include/nw4r/ef/activitylist.h, TFP2_D_D; TFP2_D_E
+NintendoWare/Revolution/Library/include/nw4r/ef/animcurve.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/ef/creationqueue.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/ef/creationqueue.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/ef/drawinfo.h, TFP2_D_D; TFP2_D_E
+NintendoWare/Revolution/Library/include/nw4r/ef/draworder.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/ef/drawstrategy.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/ef/effect.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/ef/effectsystem.h, TFP2_D_D; TFP2_D_E
+NintendoWare/Revolution/Library/include/nw4r/ef/emform/, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/ef/emform/cube.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/ef/emform/cylinder.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/ef/emform/disc.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/ef/emform/emform.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/ef/emform/line.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/ef/emform/point.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/ef/emform/sphere.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/ef/emform/torus.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/ef/emitter.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/ef/emitterform.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/ef/field.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/ef/handle.h, TFP2_D_D; TFP2_D_E
+NintendoWare/Revolution/Library/include/nw4r/ef/linkedobject.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/ef/memorymanager.h, TFP2_D_D; TFP2_D_E
+NintendoWare/Revolution/Library/include/nw4r/ef/memorymanagerimpl.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/ef/memorymanagertmp.h, TFP2_D_D; TFP2_D_E
+NintendoWare/Revolution/Library/include/nw4r/ef/particle.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/ef/particlemanager.h, TFP2_D_D; TFP2_D_E
+NintendoWare/Revolution/Library/include/nw4r/ef/particlemodifier.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/ef/postfield.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/ef/random.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/ef/referencedobject.h, TFP2_D_D; TFP2_D_E
+NintendoWare/Revolution/Library/include/nw4r/ef/res_animcurve.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/ef/res_animcurve_ac.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/ef/res_drawparam_ac.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/ef/res_emitter.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/ef/res_emitter_ac.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/ef/res_emitterparam_ac.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/ef/res_particleparam_ac.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/ef/res_texture.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/ef/resource.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/ef/types.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/ef.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/g3d/, TFP2_D_D; TFP2_D_E
+NintendoWare/Revolution/Library/include/nw4r/g3d/g3d_anmchr.h, TFP2_D_D; TFP2_D_E
+NintendoWare/Revolution/Library/include/nw4r/g3d/g3d_anmclr.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/g3d/g3d_anmobj.h, TFP2_D_D; TFP2_D_E
+NintendoWare/Revolution/Library/include/nw4r/g3d/g3d_anmscn.h, TFP2_D_D; TFP2_D_E
+NintendoWare/Revolution/Library/include/nw4r/g3d/g3d_anmshp.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/g3d/g3d_anmtexpat.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/g3d/g3d_anmtexsrt.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/g3d/g3d_anmvis.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/g3d/g3d_calcmaterial.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/g3d/g3d_calcview.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/g3d/g3d_calcworld.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/g3d/g3d_camera.h, TFP2_D_D; TFP2_D_E
+NintendoWare/Revolution/Library/include/nw4r/g3d/g3d_config.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/g3d/g3d_draw.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/g3d/g3d_draw1mat1shp.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/g3d/g3d_fog.h, TFP2_D_D; TFP2_D_E
+NintendoWare/Revolution/Library/include/nw4r/g3d/g3d_init.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/g3d/g3d_light.h, TFP2_D_D; TFP2_D_E
+NintendoWare/Revolution/Library/include/nw4r/g3d/g3d_obj.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/g3d/g3d_res.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/g3d/g3d_scnchoice.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/g3d/g3d_scngroupex.h, TFP2_D_D; TFP2_D_E
+NintendoWare/Revolution/Library/include/nw4r/g3d/g3d_scnlod.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/g3d/g3d_scnmdl.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/g3d/g3d_scnmdl1mat1shp.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/g3d/g3d_scnmdlexpand.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/g3d/g3d_scnmdlsmpl.h, TFP2_D_D; TFP2_D_E
+NintendoWare/Revolution/Library/include/nw4r/g3d/g3d_scnobj.h, TFP2_D_D; TFP2_D_E
+NintendoWare/Revolution/Library/include/nw4r/g3d/g3d_scnproc.h, TFP2_D_D; TFP2_D_E
+NintendoWare/Revolution/Library/include/nw4r/g3d/g3d_scnroot.h, TFP2_D_D; TFP2_D_E
+NintendoWare/Revolution/Library/include/nw4r/g3d/g3d_state.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/g3d/g3d_workmem.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/g3d/platform/, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/g3d/platform/g3d_allocator.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/g3d/platform/g3d_cpu.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/g3d/platform/g3d_gpu.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/g3d/platform/g3d_math.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/g3d/platform/g3d_misc.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/g3d/res/, TFP2_D_D; TFP2_D_E
+NintendoWare/Revolution/Library/include/nw4r/g3d/res/g3d_resanm.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/g3d/res/g3d_resanm_ac.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/g3d/res/g3d_resanmamblight.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/g3d/res/g3d_resanmamblight_ac.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/g3d/res/g3d_resanmcamera.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/g3d/res/g3d_resanmcamera_ac.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/g3d/res/g3d_resanmchr.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/g3d/res/g3d_resanmchr_ac.h, TFP2_D_D; TFP2_D_E
+NintendoWare/Revolution/Library/include/nw4r/g3d/res/g3d_resanmclr.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/g3d/res/g3d_resanmclr_ac.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/g3d/res/g3d_resanmfog.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/g3d/res/g3d_resanmfog_ac.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/g3d/res/g3d_resanmlight.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/g3d/res/g3d_resanmlight_ac.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/g3d/res/g3d_resanmscn.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/g3d/res/g3d_resanmscn_ac.h, TFP2_D_D; TFP2_D_E
+NintendoWare/Revolution/Library/include/nw4r/g3d/res/g3d_resanmshp.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/g3d/res/g3d_resanmshp_ac.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/g3d/res/g3d_resanmtexpat.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/g3d/res/g3d_resanmtexpat_ac.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/g3d/res/g3d_resanmtexsrt.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/g3d/res/g3d_resanmtexsrt_ac.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/g3d/res/g3d_resanmvis.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/g3d/res/g3d_resanmvis_ac.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/g3d/res/g3d_resbytecode.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/g3d/res/g3d_rescommon.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/g3d/res/g3d_rescommon_ac.h, TFP2_D_D; TFP2_D_E
+NintendoWare/Revolution/Library/include/nw4r/g3d/res/g3d_resdict.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/g3d/res/g3d_resdict_ac.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/g3d/res/g3d_resfile.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/g3d/res/g3d_resfile_ac.h, TFP2_D_D; TFP2_D_E
+NintendoWare/Revolution/Library/include/nw4r/g3d/res/g3d_reslightset.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/g3d/res/g3d_reslightset_ac.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/g3d/res/g3d_resmat.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/g3d/res/g3d_resmat_ac.h, TFP2_D_D; TFP2_D_E
+NintendoWare/Revolution/Library/include/nw4r/g3d/res/g3d_resmdl.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/g3d/res/g3d_resmdl_ac.h, TFP2_D_D; TFP2_D_E
+NintendoWare/Revolution/Library/include/nw4r/g3d/res/g3d_resnode.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/g3d/res/g3d_resnode_ac.h, TFP2_D_D; TFP2_D_E
+NintendoWare/Revolution/Library/include/nw4r/g3d/res/g3d_respltt.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/g3d/res/g3d_respltt_ac.h, TFP2_D_D; TFP2_D_E
+NintendoWare/Revolution/Library/include/nw4r/g3d/res/g3d_resshp.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/g3d/res/g3d_resshp_ac.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/g3d/res/g3d_restev.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/g3d/res/g3d_restev_ac.h, TFP2_D_D; TFP2_D_E
+NintendoWare/Revolution/Library/include/nw4r/g3d/res/g3d_restex.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/g3d/res/g3d_restex_ac.h, TFP2_D_D; TFP2_D_E
+NintendoWare/Revolution/Library/include/nw4r/g3d/res/g3d_restexplttinfo.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/g3d/res/g3d_restexplttinfo_ac.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/g3d/res/g3d_resuser.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/g3d/res/g3d_resuser_ac.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/g3d/res/g3d_resvtx.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/g3d/res/g3d_resvtx_ac.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/g3d.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/layout_version.h, ISSM_D
+NintendoWare/Revolution/Library/include/nw4r/lyt/, ISSM_D; TFP2_D_D; TFP2_D_E
+NintendoWare/Revolution/Library/include/nw4r/lyt/animation.h, ISSM_D; TFP2_D_D; TFP2_D_E
+NintendoWare/Revolution/Library/include/nw4r/lyt/arcResourceAccessor.h, ISSM_D; TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/lyt/bounding.h, ISSM_D; TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/lyt/common.h, ISSM_D; TFP2_D_D; TFP2_D_E
+NintendoWare/Revolution/Library/include/nw4r/lyt/drawInfo.h, ISSM_D; TFP2_D_D; TFP2_D_E
+NintendoWare/Revolution/Library/include/nw4r/lyt/group.h, TFP2_D_D; ISSM_D; TFP2_D_E
+NintendoWare/Revolution/Library/include/nw4r/lyt/init.h, ISSM_D; TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/lyt/layout.h, ISSM_D; TFP2_D_D; TFP2_D_E
+NintendoWare/Revolution/Library/include/nw4r/lyt/material.h, ISSM_D; TFP2_D_D; TFP2_D_E
+NintendoWare/Revolution/Library/include/nw4r/lyt/pane.h, ISSM_D; TFP2_D_D; TFP2_D_E
+NintendoWare/Revolution/Library/include/nw4r/lyt/picture.h, ISSM_D; TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/lyt/resourceAccessor.h, ISSM_D; TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/lyt/resources.h, ISSM_D; TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/lyt/texMap.h, ISSM_D; TFP2_D_D; TFP2_D_E
+NintendoWare/Revolution/Library/include/nw4r/lyt/textBox.h, ISSM_D; TFP2_D_D; TFP2_D_E
+NintendoWare/Revolution/Library/include/nw4r/lyt/types.h, ISSM_D; TFP2_D_D; TFP2_D_E
+NintendoWare/Revolution/Library/include/nw4r/lyt/util.h, ISSM_D; TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/lyt/window.h, ISSM_D; TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/lyt.h, ISSM_D; TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/math/, ISSM_D; TFP2_D_D; TFP2_D_E
+NintendoWare/Revolution/Library/include/nw4r/math/arithmetic.h, ISSM_D; TFP2_D_D; TFP2_D_E
+NintendoWare/Revolution/Library/include/nw4r/math/config.h, ISSM_D; TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/math/constant.h, ISSM_D; TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/math/equation.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/math/geometry.h, TFP2_D_D; TFP2_D_E
+NintendoWare/Revolution/Library/include/nw4r/math/triangular.h, ISSM_D; TFP2_D_D; TFP2_D_E
+NintendoWare/Revolution/Library/include/nw4r/math/types.h, ISSM_D; TFP2_D_D; TFP2_D_E
+NintendoWare/Revolution/Library/include/nw4r/math.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/mcs/, SdR_D; TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/mcs/base.h, SdR_D; TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/mcs/fileIO.h, SdR_D; TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/mcs/McsFileStream.h, SdR_D; TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/mcs/simpleRingBuffer.h, SdR_D; TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/misc.h, ISSM_D; SdR_D; TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/snd/, TFP2_D_D; TFP2_D_E
+NintendoWare/Revolution/Library/include/nw4r/snd/AnimSound.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/snd/AnimSoundFile.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/snd/AxfxImpl.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/snd/AxManager.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/snd/AxVoice.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/snd/AxVoiceManager.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/snd/Bank.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/snd/BankFile.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/snd/BasicPlayer.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/snd/BasicSound.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/snd/BiquadFilterCallback.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/snd/BiquadFilterPreset.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/snd/Channel.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/snd/config.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/snd/debug.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/snd/DisposeCallbackManager.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/snd/DvdSoundArchive.h, TFP2_D_D; TFP2_D_E
+NintendoWare/Revolution/Library/include/nw4r/snd/EnvGenerator.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/snd/ExternalHeap.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/snd/ExternalSoundPlayer.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/snd/FrameHeap.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/snd/FxBase.h, TFP2_D_D; TFP2_D_E
+NintendoWare/Revolution/Library/include/nw4r/snd/FxChorus.h, TFP2_D_D; TFP2_D_E
+NintendoWare/Revolution/Library/include/nw4r/snd/FxChorusDpl2.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/snd/FxDelay.h, TFP2_D_D; TFP2_D_E
+NintendoWare/Revolution/Library/include/nw4r/snd/FxDelayDpl2.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/snd/FxParam.h, TFP2_D_D; TFP2_D_E
+NintendoWare/Revolution/Library/include/nw4r/snd/FxReverbHi.h, TFP2_D_D; TFP2_D_E
+NintendoWare/Revolution/Library/include/nw4r/snd/FxReverbHiDpl2.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/snd/FxReverbStd.h, TFP2_D_D; TFP2_D_E
+NintendoWare/Revolution/Library/include/nw4r/snd/FxReverbStdDpl2.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/snd/global.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/snd/InstanceManager.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/snd/InstancePool.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/snd/Lfo.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/snd/McsSoundArchive.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/snd/MemorySoundArchive.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/snd/MidiSeqPlayer.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/snd/MidiSeqTrack.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/snd/MidiSeqTrackAllocator.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/snd/MidiStreamParser.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/snd/MmlParser.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/snd/MmlSeqTrack.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/snd/MmlSeqTrackAllocator.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/snd/MoveValue.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/snd/NandSoundArchive.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/snd/NoteOnCallback.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/snd/PlayerHeap.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/snd/RemoteSpeaker.h, TFP2_D_D; TFP2_D_E
+NintendoWare/Revolution/Library/include/nw4r/snd/RemoteSpeakerManager.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/snd/SeqFile.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/snd/SeqPlayer.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/snd/SeqSound.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/snd/SeqSoundHandle.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/snd/SeqTrack.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/snd/SeqTrackAllocator.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/snd/Sound3DActor.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/snd/Sound3DCalculator.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/snd/Sound3DEngine.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/snd/Sound3DListener.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/snd/Sound3DManager.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/snd/SoundActor.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/snd/SoundArchive.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/snd/SoundArchiveFile.h, TFP2_D_D; TFP2_D_E
+NintendoWare/Revolution/Library/include/nw4r/snd/SoundArchiveLoader.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/snd/SoundArchivePlayer.h, TFP2_D_D; TFP2_D_E
+NintendoWare/Revolution/Library/include/nw4r/snd/SoundHandle.h, TFP2_D_D; TFP2_D_E
+NintendoWare/Revolution/Library/include/nw4r/snd/SoundHeap.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/snd/SoundInstanceManager.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/snd/SoundMemoryAllocatable.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/snd/SoundPlayer.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/snd/SoundStartable.h, TFP2_D_D; TFP2_D_E
+NintendoWare/Revolution/Library/include/nw4r/snd/SoundSystem.h, TFP2_D_D; TFP2_D_E
+NintendoWare/Revolution/Library/include/nw4r/snd/SoundThread.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/snd/StrmChannel.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/snd/StrmFile.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/snd/StrmPlayer.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/snd/StrmSound.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/snd/StrmSoundHandle.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/snd/Task.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/snd/TaskManager.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/snd/TaskThread.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/snd/Util.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/snd/Voice.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/snd/VoiceManager.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/snd/WaveArchive.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/snd/WaveFile.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/snd/WavePlayer.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/snd/WaveSound.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/snd/WaveSoundHandle.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/snd/WsdFile.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/snd/WsdPlayer.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/snd.h, TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/ut/, ISSM_D; SdR_D; TFP2_D_D; TFP2_D_E
+NintendoWare/Revolution/Library/include/nw4r/ut/ArchiveFont.h, ISSM_D; TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/ut/ArchiveFontBase.h, ISSM_D; TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/ut/binaryFileFormat.h, ISSM_D; TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/ut/CharStrmReader.h, ISSM_D; TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/ut/CharWriter.h, ISSM_D; TFP2_D_D; TFP2_D_E
+NintendoWare/Revolution/Library/include/nw4r/ut/Color.h, ISSM_D; TFP2_D_D; TFP2_D_E
+NintendoWare/Revolution/Library/include/nw4r/ut/DvdFileStream.h, ISSM_D; TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/ut/DvdLockedFileStream.h, ISSM_D; TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/ut/FileStream.h, ISSM_D; SdR_D; TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/ut/Font.h, ISSM_D; TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/ut/fontResourceFormat.h, ISSM_D; TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/ut/GPPerf.h, ISSM_D; TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/ut/inlines.h, ISSM_D; TFP2_D_D; TFP2_D_E
+NintendoWare/Revolution/Library/include/nw4r/ut/IOStream.h, ISSM_D; SdR_D; TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/ut/LinkList.h, ISSM_D; TFP2_D_D; TFP2_D_E
+NintendoWare/Revolution/Library/include/nw4r/ut/list.h, ISSM_D; SdR_D; TFP2_D_D; TFP2_D_E
+NintendoWare/Revolution/Library/include/nw4r/ut/Lock.h, ISSM_D; TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/ut/LockedCache.h, ISSM_D; TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/ut/NandFileStream.h, ISSM_D; TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/ut/PackedFont.h, ISSM_D; TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/ut/Rect.h, ISSM_D; TFP2_D_D; TFP2_D_E
+NintendoWare/Revolution/Library/include/nw4r/ut/ResFont.h, ISSM_D; TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/ut/ResFontBase.h, ISSM_D; TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/ut/RomFont.h, ISSM_D; TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/ut/RuntimeTypeInfo.h, ISSM_D; SdR_D; TFP2_D_D; TFP2_D_E
+NintendoWare/Revolution/Library/include/nw4r/ut/TagProcessor.h, ISSM_D; TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/ut/TagProcessorBase.h, ISSM_D; TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/ut/TextWriter.h, ISSM_D; TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/ut/TextWriterBase.h, ISSM_D; TFP2_D_D; TFP2_D_E
+NintendoWare/Revolution/Library/include/nw4r/ut/WideTagProcessor.h, ISSM_D; TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/ut/WideTextWriter.h, ISSM_D; TFP2_D_D
+NintendoWare/Revolution/Library/include/nw4r/ut.h, ISSM_D; TFP2_D_D
+NNGCSystem/, ISSM_D; TFP2_D_E
+NNGCSystem/EffectLib/, ISSM_D; TFP2_D_E
+NNGCSystem/EffectLib/build/, ISSM_D; TFP2_D_E
+NNGCSystem/EffectLib/build/libraries/, ISSM_D; TFP2_D_E
+NNGCSystem/EffectLib/build/libraries/ef/, ISSM_D; TFP2_D_E
+NNGCSystem/EffectLib/build/libraries/ef/src/, ISSM_D; TFP2_D_E
+NNGCSystem/EffectLib/build/libraries/ef/src/drawstrategy/, TFP2_D_E
+NNGCSystem/EffectLib/build/libraries/ef/src/drawstrategy/ef_drawbillboardstrategy.cpp, TFP2_D_E
+NNGCSystem/EffectLib/build/libraries/ef/src/drawstrategy/ef_drawdirectionalstrategy.cpp, TFP2_D_E
+NNGCSystem/EffectLib/build/libraries/ef/src/drawstrategy/ef_drawfreestrategy.cpp, TFP2_D_E
+NNGCSystem/EffectLib/build/libraries/ef/src/drawstrategy/ef_drawlinestrategy.cpp, TFP2_D_E
+NNGCSystem/EffectLib/build/libraries/ef/src/drawstrategy/ef_drawpointstrategy.cpp, TFP2_D_E
+NNGCSystem/EffectLib/build/libraries/ef/src/drawstrategy/ef_drawsmoothstripestrategy.cpp, TFP2_D_E
+NNGCSystem/EffectLib/build/libraries/ef/src/drawstrategy/ef_drawstrategybuilder.cpp, TFP2_D_E
+NNGCSystem/EffectLib/build/libraries/ef/src/drawstrategy/ef_drawstrategyimpl.cpp, TFP2_D_E
+NNGCSystem/EffectLib/build/libraries/ef/src/drawstrategy/ef_drawstripestrategy.cpp, TFP2_D_E
+NNGCSystem/EffectLib/build/libraries/ef/src/ef_animcurve.cpp, TFP2_D_E
+NNGCSystem/EffectLib/build/libraries/ef/src/ef_creationqueue.cpp, TFP2_D_E
+NNGCSystem/EffectLib/build/libraries/ef/src/ef_draworder.cpp, TFP2_D_E
+NNGCSystem/EffectLib/build/libraries/ef/src/ef_effect.cpp, TFP2_D_E
+NNGCSystem/EffectLib/build/libraries/ef/src/ef_effectsystem.cpp, TFP2_D_E
+NNGCSystem/EffectLib/build/libraries/ef/src/ef_emitter.cpp, TFP2_D_E
+NNGCSystem/EffectLib/build/libraries/ef/src/ef_emitterform.cpp, TFP2_D_E
+NNGCSystem/EffectLib/build/libraries/ef/src/ef_handle.cpp, TFP2_D_E
+NNGCSystem/EffectLib/build/libraries/ef/src/ef_particle.cpp, TFP2_D_E
+NNGCSystem/EffectLib/build/libraries/ef/src/ef_particlemanager.cpp, TFP2_D_E
+NNGCSystem/EffectLib/build/libraries/ef/src/ef_postfield.cpp, ISSM_D; TFP2_D_E
+NNGCSystem/EffectLib/build/libraries/ef/src/ef_resource.cpp, TFP2_D_E
+NNGCSystem/EffectLib/build/libraries/ef/src/ef_util.cpp, ISSM_D; TFP2_D_E
+NNGCSystem/EffectLib/build/libraries/ef/src/emform/, TFP2_D_E
+NNGCSystem/EffectLib/build/libraries/ef/src/emform/ef_cube.cpp, TFP2_D_E
+NNGCSystem/EffectLib/build/libraries/ef/src/emform/ef_cylinder.cpp, TFP2_D_E
+NNGCSystem/EffectLib/build/libraries/ef/src/emform/ef_disc.cpp, TFP2_D_E
+NNGCSystem/EffectLib/build/libraries/ef/src/emform/ef_emform.cpp, TFP2_D_E
+NNGCSystem/EffectLib/build/libraries/ef/src/emform/ef_line.cpp, TFP2_D_E
+NNGCSystem/EffectLib/build/libraries/ef/src/emform/ef_point.cpp, TFP2_D_E
+NNGCSystem/EffectLib/build/libraries/ef/src/emform/ef_sphere.cpp, TFP2_D_E
+NNGCSystem/EffectLib/build/libraries/ef/src/emform/ef_torus.cpp, TFP2_D_E
+NNGCSystem/EffectLib/include/, ISSM_D; TFP2_D_E
+NNGCSystem/EffectLib/include/nw4r/, ISSM_D; TFP2_D_E
+NNGCSystem/EffectLib/include/nw4r/ef/, ISSM_D; TFP2_D_E
+NNGCSystem/EffectLib/include/nw4r/ef/activitylist.h, ISSM_D; TFP2_D_E
+NNGCSystem/EffectLib/include/nw4r/ef/creationqueue.h, ISSM_D; TFP2_D_E
+NNGCSystem/EffectLib/include/nw4r/ef/drawinfo.h, ISSM_D; TFP2_D_E
+NNGCSystem/EffectLib/include/nw4r/ef/draworder.h, ISSM_D; TFP2_D_E
+NNGCSystem/EffectLib/include/nw4r/ef/drawstrategy/drawdirectionalstrategy.h, TFP2_D_E
+NNGCSystem/EffectLib/include/nw4r/ef/drawstrategy/drawsmoothstripestrategy.h, TFP2_D_E
+NNGCSystem/EffectLib/include/nw4r/ef/drawstrategy/drawstrategyimpl.h, TFP2_D_E
+NNGCSystem/EffectLib/include/nw4r/ef/drawstrategy/drawstripestrategy.h, TFP2_D_E
+NNGCSystem/EffectLib/include/nw4r/ef/drawstrategy.h, ISSM_D; TFP2_D_E
+NNGCSystem/EffectLib/include/nw4r/ef/effect.h, ISSM_D; TFP2_D_E
+NNGCSystem/EffectLib/include/nw4r/ef/effectsystem.h, ISSM_D; TFP2_D_E
+NNGCSystem/EffectLib/include/nw4r/ef/emform/cube.h, ISSM_D; TFP2_D_E
+NNGCSystem/EffectLib/include/nw4r/ef/emform/cylinder.h, TFP2_D_E
+NNGCSystem/EffectLib/include/nw4r/ef/emform/disc.h, TFP2_D_E
+NNGCSystem/EffectLib/include/nw4r/ef/emform/emform.h, ISSM_D
+NNGCSystem/EffectLib/include/nw4r/ef/emform/line.h, TFP2_D_E
+NNGCSystem/EffectLib/include/nw4r/ef/emform/point.h, TFP2_D_E
+NNGCSystem/EffectLib/include/nw4r/ef/emform/sphere.h, TFP2_D_E
+NNGCSystem/EffectLib/include/nw4r/ef/emform/torus.h, TFP2_D_E
+NNGCSystem/EffectLib/include/nw4r/ef/emitter.h, ISSM_D; TFP2_D_E
+NNGCSystem/EffectLib/include/nw4r/ef/emitterform.h, ISSM_D; TFP2_D_E
+NNGCSystem/EffectLib/include/nw4r/ef/field.h, TFP2_D_E
+NNGCSystem/EffectLib/include/nw4r/ef/handle.h, ISSM_D
+NNGCSystem/EffectLib/include/nw4r/ef/linkedobject.h, ISSM_D; TFP2_D_E
+NNGCSystem/EffectLib/include/nw4r/ef/particle.h, ISSM_D; TFP2_D_E
+NNGCSystem/EffectLib/include/nw4r/ef/particlemanager.h, ISSM_D; TFP2_D_E
+NNGCSystem/EffectLib/include/nw4r/ef/particlemodifier.h, ISSM_D
+NNGCSystem/EffectLib/include/nw4r/ef/postfield.h, ISSM_D
+NNGCSystem/EffectLib/include/nw4r/ef/random.h, ISSM_D; TFP2_D_E
+NNGCSystem/EffectLib/include/nw4r/ef/referencedobject.h, ISSM_D; TFP2_D_E
+NNGCSystem/EffectLib/include/nw4r/ef/res_animcurve.h, ISSM_D
+NNGCSystem/EffectLib/include/nw4r/ef/res_animcurve_ac.h, ISSM_D
+NNGCSystem/EffectLib/include/nw4r/ef/res_emitter.h, ISSM_D; TFP2_D_E
+NNGCSystem/EffectLib/include/nw4r/ef/res_emitter_ac.h, ISSM_D; TFP2_D_E
+NNGCSystem/EffectLib/include/nw4r/ef/res_emitterparam_ac.h, ISSM_D
+NNGCSystem/EffectLib/include/nw4r/ef/res_particleparam_ac.h, ISSM_D
+NNGCSystem/EffectLib/include/nw4r/ef/res_texture.h, ISSM_D
+NNGCSystem/EffectLib/include/nw4r/ef/resource.h, ISSM_D; TFP2_D_E
+NNGCSystem/EffectLib/include/nw4r/ef/types.h, ISSM_D; TFP2_D_E
+NNGCSystem/GraphicsLib/, ISSM_D; TFP2_D_E
+NNGCSystem/GraphicsLib/build/, ISSM_D; TFP2_D_E
+NNGCSystem/GraphicsLib/build/libraries/, ISSM_D; TFP2_D_E
+NNGCSystem/GraphicsLib/build/libraries/g3d/, ISSM_D; TFP2_D_E
+NNGCSystem/GraphicsLib/build/libraries/g3d/src/, ISSM_D; TFP2_D_E
+NNGCSystem/GraphicsLib/build/libraries/g3d/src/dcc/, TFP2_D_E
+NNGCSystem/GraphicsLib/build/libraries/g3d/src/dcc/g3d_3dsmax.cpp, TFP2_D_E
+NNGCSystem/GraphicsLib/build/libraries/g3d/src/dcc/g3d_basic.cpp, TFP2_D_E
+NNGCSystem/GraphicsLib/build/libraries/g3d/src/dcc/g3d_maya.cpp, TFP2_D_E
+NNGCSystem/GraphicsLib/build/libraries/g3d/src/dcc/g3d_xsi.cpp, TFP2_D_E
+NNGCSystem/GraphicsLib/build/libraries/g3d/src/g3d_anmchr.cpp, TFP2_D_E
+NNGCSystem/GraphicsLib/build/libraries/g3d/src/g3d_anmclr.cpp, ISSM_D; TFP2_D_E
+NNGCSystem/GraphicsLib/build/libraries/g3d/src/g3d_anmobj.cpp, TFP2_D_E
+NNGCSystem/GraphicsLib/build/libraries/g3d/src/g3d_anmscn.cpp, TFP2_D_E
+NNGCSystem/GraphicsLib/build/libraries/g3d/src/g3d_anmshp.cpp, TFP2_D_E
+NNGCSystem/GraphicsLib/build/libraries/g3d/src/g3d_anmtexpat.cpp, TFP2_D_E
+NNGCSystem/GraphicsLib/build/libraries/g3d/src/g3d_anmtexsrt.cpp, TFP2_D_E
+NNGCSystem/GraphicsLib/build/libraries/g3d/src/g3d_anmvis.cpp, TFP2_D_E
+NNGCSystem/GraphicsLib/build/libraries/g3d/src/g3d_calcmaterial.cpp, TFP2_D_E
+NNGCSystem/GraphicsLib/build/libraries/g3d/src/g3d_calcview.cpp, TFP2_D_E
+NNGCSystem/GraphicsLib/build/libraries/g3d/src/g3d_calcvtx.cpp, TFP2_D_E
+NNGCSystem/GraphicsLib/build/libraries/g3d/src/g3d_calcworld.cpp, TFP2_D_E
+NNGCSystem/GraphicsLib/build/libraries/g3d/src/g3d_camera.cpp, TFP2_D_E
+NNGCSystem/GraphicsLib/build/libraries/g3d/src/g3d_dcc.cpp, TFP2_D_E
+NNGCSystem/GraphicsLib/build/libraries/g3d/src/g3d_draw.cpp, TFP2_D_E
+NNGCSystem/GraphicsLib/build/libraries/g3d/src/g3d_draw1mat1shp.cpp, TFP2_D_E
+NNGCSystem/GraphicsLib/build/libraries/g3d/src/g3d_fog.cpp, TFP2_D_E
+NNGCSystem/GraphicsLib/build/libraries/g3d/src/g3d_init.cpp, TFP2_D_E
+NNGCSystem/GraphicsLib/build/libraries/g3d/src/g3d_light.cpp, TFP2_D_E
+NNGCSystem/GraphicsLib/build/libraries/g3d/src/g3d_obj.cpp, TFP2_D_E
+NNGCSystem/GraphicsLib/build/libraries/g3d/src/g3d_scnchoice.cpp, TFP2_D_E
+NNGCSystem/GraphicsLib/build/libraries/g3d/src/g3d_scngroupex.cpp, TFP2_D_E
+NNGCSystem/GraphicsLib/build/libraries/g3d/src/g3d_scnmdl.cpp, TFP2_D_E
+NNGCSystem/GraphicsLib/build/libraries/g3d/src/g3d_scnmdl1mat1shp.cpp, TFP2_D_E
+NNGCSystem/GraphicsLib/build/libraries/g3d/src/g3d_scnmdlexpand.cpp, TFP2_D_E
+NNGCSystem/GraphicsLib/build/libraries/g3d/src/g3d_scnmdlsmpl.cpp, TFP2_D_E
+NNGCSystem/GraphicsLib/build/libraries/g3d/src/g3d_scnobj.cpp, TFP2_D_E
+NNGCSystem/GraphicsLib/build/libraries/g3d/src/g3d_scnproc.cpp, TFP2_D_E
+NNGCSystem/GraphicsLib/build/libraries/g3d/src/g3d_scnroot.cpp, TFP2_D_E
+NNGCSystem/GraphicsLib/build/libraries/g3d/src/g3d_state.cpp, TFP2_D_E
+NNGCSystem/GraphicsLib/build/libraries/g3d/src/g3d_transform.cpp, TFP2_D_E
+NNGCSystem/GraphicsLib/build/libraries/g3d/src/g3d_workmem.cpp, TFP2_D_E
+NNGCSystem/GraphicsLib/build/libraries/g3d/src/platform/, TFP2_D_E
+NNGCSystem/GraphicsLib/build/libraries/g3d/src/platform/g3d_cpu.cpp, TFP2_D_E
+NNGCSystem/GraphicsLib/build/libraries/g3d/src/platform/g3d_gpu.cpp, TFP2_D_E
+NNGCSystem/GraphicsLib/build/libraries/g3d/src/res/, ISSM_D; TFP2_D_E
+NNGCSystem/GraphicsLib/build/libraries/g3d/src/res/g3d_resanm.cpp, ISSM_D; TFP2_D_E
+NNGCSystem/GraphicsLib/build/libraries/g3d/src/res/g3d_resanmamblight.cpp, TFP2_D_E
+NNGCSystem/GraphicsLib/build/libraries/g3d/src/res/g3d_resanmcamera.cpp, TFP2_D_E
+NNGCSystem/GraphicsLib/build/libraries/g3d/src/res/g3d_resanmchr.cpp, ISSM_D; TFP2_D_E
+NNGCSystem/GraphicsLib/build/libraries/g3d/src/res/g3d_resanmclr.cpp, TFP2_D_E
+NNGCSystem/GraphicsLib/build/libraries/g3d/src/res/g3d_resanmfog.cpp, TFP2_D_E
+NNGCSystem/GraphicsLib/build/libraries/g3d/src/res/g3d_resanmlight.cpp, TFP2_D_E
+NNGCSystem/GraphicsLib/build/libraries/g3d/src/res/g3d_resanmscn.cpp, TFP2_D_E
+NNGCSystem/GraphicsLib/build/libraries/g3d/src/res/g3d_resanmshp.cpp, TFP2_D_E
+NNGCSystem/GraphicsLib/build/libraries/g3d/src/res/g3d_resanmtexpat.cpp, TFP2_D_E
+NNGCSystem/GraphicsLib/build/libraries/g3d/src/res/g3d_resanmtexsrt.cpp, TFP2_D_E
+NNGCSystem/GraphicsLib/build/libraries/g3d/src/res/g3d_resanmvis.cpp, TFP2_D_E
+NNGCSystem/GraphicsLib/build/libraries/g3d/src/res/g3d_rescommon.cpp, TFP2_D_E
+NNGCSystem/GraphicsLib/build/libraries/g3d/src/res/g3d_resdict.cpp, TFP2_D_E
+NNGCSystem/GraphicsLib/build/libraries/g3d/src/res/g3d_resfile.cpp, TFP2_D_E
+NNGCSystem/GraphicsLib/build/libraries/g3d/src/res/g3d_reslightset.cpp, TFP2_D_E
+NNGCSystem/GraphicsLib/build/libraries/g3d/src/res/g3d_resmat.cpp, TFP2_D_E
+NNGCSystem/GraphicsLib/build/libraries/g3d/src/res/g3d_resmdl.cpp, TFP2_D_E
+NNGCSystem/GraphicsLib/build/libraries/g3d/src/res/g3d_resnode.cpp, TFP2_D_E
+NNGCSystem/GraphicsLib/build/libraries/g3d/src/res/g3d_resshp.cpp, TFP2_D_E
+NNGCSystem/GraphicsLib/build/libraries/g3d/src/res/g3d_restev.cpp, TFP2_D_E
+NNGCSystem/GraphicsLib/build/libraries/g3d/src/res/g3d_restex.cpp, TFP2_D_E
+NNGCSystem/GraphicsLib/build/libraries/g3d/src/res/g3d_resvtx.cpp, TFP2_D_E
+NNGCSystem/GraphicsLib/include/, ISSM_D; TFP2_D_E
+NNGCSystem/GraphicsLib/include/nw4r/, ISSM_D; TFP2_D_E
+NNGCSystem/GraphicsLib/include/nw4r/g3d/, ISSM_D; TFP2_D_E
+NNGCSystem/GraphicsLib/include/nw4r/g3d/g3d_anmchr.h, TFP2_D_E
+NNGCSystem/GraphicsLib/include/nw4r/g3d/g3d_anmclr.h, ISSM_D; TFP2_D_E
+NNGCSystem/GraphicsLib/include/nw4r/g3d/g3d_anmobj.h, ISSM_D; TFP2_D_E
+NNGCSystem/GraphicsLib/include/nw4r/g3d/g3d_anmscn.h, TFP2_D_E
+NNGCSystem/GraphicsLib/include/nw4r/g3d/g3d_anmshp.h, TFP2_D_E
+NNGCSystem/GraphicsLib/include/nw4r/g3d/g3d_anmtexpat.h, TFP2_D_E
+NNGCSystem/GraphicsLib/include/nw4r/g3d/g3d_anmtexsrt.h, TFP2_D_E
+NNGCSystem/GraphicsLib/include/nw4r/g3d/g3d_anmvis.h, TFP2_D_E
+NNGCSystem/GraphicsLib/include/nw4r/g3d/g3d_calcworld.h, TFP2_D_E
+NNGCSystem/GraphicsLib/include/nw4r/g3d/g3d_camera.h, TFP2_D_E
+NNGCSystem/GraphicsLib/include/nw4r/g3d/g3d_config.h, ISSM_D
+NNGCSystem/GraphicsLib/include/nw4r/g3d/g3d_dcc.h, TFP2_D_E
+NNGCSystem/GraphicsLib/include/nw4r/g3d/g3d_draw1mat1shp.h, TFP2_D_E
+NNGCSystem/GraphicsLib/include/nw4r/g3d/g3d_fog.h, TFP2_D_E
+NNGCSystem/GraphicsLib/include/nw4r/g3d/g3d_light.h, TFP2_D_E
+NNGCSystem/GraphicsLib/include/nw4r/g3d/g3d_obj.h, ISSM_D; TFP2_D_E
+NNGCSystem/GraphicsLib/include/nw4r/g3d/g3d_scnchoice.h, TFP2_D_E
+NNGCSystem/GraphicsLib/include/nw4r/g3d/g3d_scngroupex.h, TFP2_D_E
+NNGCSystem/GraphicsLib/include/nw4r/g3d/g3d_scnmdl.h, TFP2_D_E
+NNGCSystem/GraphicsLib/include/nw4r/g3d/g3d_scnmdl1mat1shp.h, TFP2_D_E
+NNGCSystem/GraphicsLib/include/nw4r/g3d/g3d_scnmdlexpand.h, TFP2_D_E
+NNGCSystem/GraphicsLib/include/nw4r/g3d/g3d_scnmdlsmpl.h, TFP2_D_E
+NNGCSystem/GraphicsLib/include/nw4r/g3d/g3d_scnobj.h, TFP2_D_E
+NNGCSystem/GraphicsLib/include/nw4r/g3d/g3d_scnproc.h, TFP2_D_E
+NNGCSystem/GraphicsLib/include/nw4r/g3d/g3d_scnroot.h, TFP2_D_E
+NNGCSystem/GraphicsLib/include/nw4r/g3d/g3d_state.h, TFP2_D_E
+NNGCSystem/GraphicsLib/include/nw4r/g3d/platform/, ISSM_D; TFP2_D_E
+NNGCSystem/GraphicsLib/include/nw4r/g3d/platform/g3d_allocator.h, ISSM_D; TFP2_D_E
+NNGCSystem/GraphicsLib/include/nw4r/g3d/platform/g3d_cpu.h, ISSM_D; TFP2_D_E
+NNGCSystem/GraphicsLib/include/nw4r/g3d/platform/g3d_gpu.h, TFP2_D_E
+NNGCSystem/GraphicsLib/include/nw4r/g3d/platform/g3d_math.h, ISSM_D
+NNGCSystem/GraphicsLib/include/nw4r/g3d/platform/g3d_misc.h, ISSM_D
+NNGCSystem/GraphicsLib/include/nw4r/g3d/res/, ISSM_D; TFP2_D_E
+NNGCSystem/GraphicsLib/include/nw4r/g3d/res/g3d_resanm.h, ISSM_D
+NNGCSystem/GraphicsLib/include/nw4r/g3d/res/g3d_resanm_ac.h, ISSM_D; TFP2_D_E
+NNGCSystem/GraphicsLib/include/nw4r/g3d/res/g3d_resanmamblight_ac.h, TFP2_D_E
+NNGCSystem/GraphicsLib/include/nw4r/g3d/res/g3d_resanmcamera_ac.h, TFP2_D_E
+NNGCSystem/GraphicsLib/include/nw4r/g3d/res/g3d_resanmchr.h, ISSM_D
+NNGCSystem/GraphicsLib/include/nw4r/g3d/res/g3d_resanmchr_ac.h, ISSM_D; TFP2_D_E
+NNGCSystem/GraphicsLib/include/nw4r/g3d/res/g3d_resanmclr.h, ISSM_D
+NNGCSystem/GraphicsLib/include/nw4r/g3d/res/g3d_resanmclr_ac.h, ISSM_D; TFP2_D_E
+NNGCSystem/GraphicsLib/include/nw4r/g3d/res/g3d_resanmfog_ac.h, TFP2_D_E
+NNGCSystem/GraphicsLib/include/nw4r/g3d/res/g3d_resanmlight_ac.h, TFP2_D_E
+NNGCSystem/GraphicsLib/include/nw4r/g3d/res/g3d_resanmscn_ac.h, TFP2_D_E
+NNGCSystem/GraphicsLib/include/nw4r/g3d/res/g3d_resanmshp_ac.h, TFP2_D_E
+NNGCSystem/GraphicsLib/include/nw4r/g3d/res/g3d_resanmtexpat_ac.h, TFP2_D_E
+NNGCSystem/GraphicsLib/include/nw4r/g3d/res/g3d_resanmtexsrt_ac.h, TFP2_D_E
+NNGCSystem/GraphicsLib/include/nw4r/g3d/res/g3d_resanmvis_ac.h, TFP2_D_E
+NNGCSystem/GraphicsLib/include/nw4r/g3d/res/g3d_rescommon.h, ISSM_D
+NNGCSystem/GraphicsLib/include/nw4r/g3d/res/g3d_rescommon_ac.h, ISSM_D; TFP2_D_E
+NNGCSystem/GraphicsLib/include/nw4r/g3d/res/g3d_resdict.h, ISSM_D
+NNGCSystem/GraphicsLib/include/nw4r/g3d/res/g3d_resdict_ac.h, ISSM_D; TFP2_D_E
+NNGCSystem/GraphicsLib/include/nw4r/g3d/res/g3d_resfile.h, ISSM_D
+NNGCSystem/GraphicsLib/include/nw4r/g3d/res/g3d_resfile_ac.h, ISSM_D; TFP2_D_E
+NNGCSystem/GraphicsLib/include/nw4r/g3d/res/g3d_reslightset_ac.h, TFP2_D_E
+NNGCSystem/GraphicsLib/include/nw4r/g3d/res/g3d_resmat.h, ISSM_D
+NNGCSystem/GraphicsLib/include/nw4r/g3d/res/g3d_resmat_ac.h, ISSM_D; TFP2_D_E
+NNGCSystem/GraphicsLib/include/nw4r/g3d/res/g3d_resmdl.h, ISSM_D; TFP2_D_E
+NNGCSystem/GraphicsLib/include/nw4r/g3d/res/g3d_resnode_ac.h, TFP2_D_E
+NNGCSystem/GraphicsLib/include/nw4r/g3d/res/g3d_respltt_ac.h, TFP2_D_E
+NNGCSystem/GraphicsLib/include/nw4r/g3d/res/g3d_resshp.h, TFP2_D_E
+NNGCSystem/GraphicsLib/include/nw4r/g3d/res/g3d_resshp_ac.h, TFP2_D_E
+NNGCSystem/GraphicsLib/include/nw4r/g3d/res/g3d_restev_ac.h, TFP2_D_E
+NNGCSystem/GraphicsLib/include/nw4r/g3d/res/g3d_restex_ac.h, TFP2_D_E
+NNGCSystem/GraphicsLib/include/nw4r/g3d/res/g3d_resuser.h, ISSM_D
+NNGCSystem/GraphicsLib/include/nw4r/g3d/res/g3d_resuser_ac.h, ISSM_D
+NNGCSystem/GraphicsLib/include/nw4r/g3d/res/g3d_resvtx_ac.h, TFP2_D_E
+NNGCSystem/LayoutLib/, ISSM_D; TFP2_D_E
+NNGCSystem/LayoutLib/build/, ISSM_D; TFP2_D_E
+NNGCSystem/LayoutLib/build/libraries/, ISSM_D; TFP2_D_E
+NNGCSystem/LayoutLib/build/libraries/lyt/, ISSM_D; TFP2_D_E
+NNGCSystem/LayoutLib/build/libraries/lyt/src/, ISSM_D; TFP2_D_E
+NNGCSystem/LayoutLib/build/libraries/lyt/src/lyt_animation.cpp, ISSM_D; TFP2_D_E
+NNGCSystem/LayoutLib/build/libraries/lyt/src/lyt_arcResourceAccessor.cpp, ISSM_D; TFP2_D_E
+NNGCSystem/LayoutLib/build/libraries/lyt/src/lyt_bounding.cpp, ISSM_D; TFP2_D_E
+NNGCSystem/LayoutLib/build/libraries/lyt/src/lyt_common.cpp, ISSM_D; TFP2_D_E
+NNGCSystem/LayoutLib/build/libraries/lyt/src/lyt_drawInfo.cpp, ISSM_D; TFP2_D_E
+NNGCSystem/LayoutLib/build/libraries/lyt/src/lyt_group.cpp, ISSM_D; TFP2_D_E
+NNGCSystem/LayoutLib/build/libraries/lyt/src/lyt_init.cpp, TFP2_D_E
+NNGCSystem/LayoutLib/build/libraries/lyt/src/lyt_layout.cpp, ISSM_D; TFP2_D_E
+NNGCSystem/LayoutLib/build/libraries/lyt/src/lyt_material.cpp, ISSM_D; TFP2_D_E
+NNGCSystem/LayoutLib/build/libraries/lyt/src/lyt_pane.cpp, ISSM_D; TFP2_D_E
+NNGCSystem/LayoutLib/build/libraries/lyt/src/lyt_picture.cpp, ISSM_D; TFP2_D_E
+NNGCSystem/LayoutLib/build/libraries/lyt/src/lyt_resourceAccessor.cpp, ISSM_D; TFP2_D_E
+NNGCSystem/LayoutLib/build/libraries/lyt/src/lyt_texMap.cpp, ISSM_D; TFP2_D_E
+NNGCSystem/LayoutLib/build/libraries/lyt/src/lyt_textBox.cpp, ISSM_D; TFP2_D_E
+NNGCSystem/LayoutLib/build/libraries/lyt/src/lyt_util.cpp, ISSM_D; TFP2_D_E
+NNGCSystem/LayoutLib/build/libraries/lyt/src/lyt_window.cpp, ISSM_D; TFP2_D_E
+NNGCSystem/LayoutLib/include/, ISSM_D; TFP2_D_E
+NNGCSystem/LayoutLib/include/nw4r/, ISSM_D; TFP2_D_E
+NNGCSystem/LayoutLib/include/nw4r/lyt/, ISSM_D; TFP2_D_E
+NNGCSystem/LayoutLib/include/nw4r/lyt/animation.h, ISSM_D; TFP2_D_E
+NNGCSystem/LayoutLib/include/nw4r/lyt/arcResourceAccessor.h, ISSM_D; TFP2_D_E
+NNGCSystem/LayoutLib/include/nw4r/lyt/bounding.h, ISSM_D; TFP2_D_E
+NNGCSystem/LayoutLib/include/nw4r/lyt/common.h, ISSM_D; TFP2_D_E
+NNGCSystem/LayoutLib/include/nw4r/lyt/drawInfo.h, ISSM_D; TFP2_D_E
+NNGCSystem/LayoutLib/include/nw4r/lyt/group.h, ISSM_D; TFP2_D_E
+NNGCSystem/LayoutLib/include/nw4r/lyt/layout.h, ISSM_D; TFP2_D_E
+NNGCSystem/LayoutLib/include/nw4r/lyt/material.h, ISSM_D; TFP2_D_E
+NNGCSystem/LayoutLib/include/nw4r/lyt/pane.h, ISSM_D; TFP2_D_E
+NNGCSystem/LayoutLib/include/nw4r/lyt/picture.h, ISSM_D; TFP2_D_E
+NNGCSystem/LayoutLib/include/nw4r/lyt/resourceAccessor.h, ISSM_D
+NNGCSystem/LayoutLib/include/nw4r/lyt/resources.h, ISSM_D; TFP2_D_E
+NNGCSystem/LayoutLib/include/nw4r/lyt/texMap.h, ISSM_D; TFP2_D_E
+NNGCSystem/LayoutLib/include/nw4r/lyt/textBox.h, ISSM_D; TFP2_D_E
+NNGCSystem/LayoutLib/include/nw4r/lyt/types.h, ISSM_D; TFP2_D_E
+NNGCSystem/LayoutLib/include/nw4r/lyt/window.h, ISSM_D; TFP2_D_E
+NNGCSystem/SoundLib/, TFP2_D_E
+NNGCSystem/SoundLib/build/, TFP2_D_E
+NNGCSystem/SoundLib/build/libraries/, TFP2_D_E
+NNGCSystem/SoundLib/build/libraries/snd/, TFP2_D_E
+NNGCSystem/SoundLib/build/libraries/snd/src/, TFP2_D_E
+NNGCSystem/SoundLib/build/libraries/snd/src/snd_AnimSound.cpp, TFP2_D_E
+NNGCSystem/SoundLib/build/libraries/snd/src/snd_AxfxImpl.cpp, TFP2_D_E
+NNGCSystem/SoundLib/build/libraries/snd/src/snd_AxManager.cpp, TFP2_D_E
+NNGCSystem/SoundLib/build/libraries/snd/src/snd_AxVoice.cpp, TFP2_D_E
+NNGCSystem/SoundLib/build/libraries/snd/src/snd_AxVoiceManager.cpp, TFP2_D_E
+NNGCSystem/SoundLib/build/libraries/snd/src/snd_Bank.cpp, TFP2_D_E
+NNGCSystem/SoundLib/build/libraries/snd/src/snd_BankFile.cpp, TFP2_D_E
+NNGCSystem/SoundLib/build/libraries/snd/src/snd_BasicPlayer.cpp, TFP2_D_E
+NNGCSystem/SoundLib/build/libraries/snd/src/snd_BasicSound.cpp, TFP2_D_E
+NNGCSystem/SoundLib/build/libraries/snd/src/snd_BiquadFilterPreset.cpp, TFP2_D_E
+NNGCSystem/SoundLib/build/libraries/snd/src/snd_Channel.cpp, TFP2_D_E
+NNGCSystem/SoundLib/build/libraries/snd/src/snd_debug.cpp, TFP2_D_E
+NNGCSystem/SoundLib/build/libraries/snd/src/snd_DisposeCallbackManager.cpp, TFP2_D_E
+NNGCSystem/SoundLib/build/libraries/snd/src/snd_DvdSoundArchive.cpp, TFP2_D_E
+NNGCSystem/SoundLib/build/libraries/snd/src/snd_EnvGenerator.cpp, TFP2_D_E
+NNGCSystem/SoundLib/build/libraries/snd/src/snd_ExternalSoundPlayer.cpp, TFP2_D_E
+NNGCSystem/SoundLib/build/libraries/snd/src/snd_FrameHeap.cpp, TFP2_D_E
+NNGCSystem/SoundLib/build/libraries/snd/src/snd_FxBase.cpp, TFP2_D_E
+NNGCSystem/SoundLib/build/libraries/snd/src/snd_FxChorus.cpp, TFP2_D_E
+NNGCSystem/SoundLib/build/libraries/snd/src/snd_FxDelay.cpp, TFP2_D_E
+NNGCSystem/SoundLib/build/libraries/snd/src/snd_FxReverbHi.cpp, TFP2_D_E
+NNGCSystem/SoundLib/build/libraries/snd/src/snd_FxReverbStd.cpp, TFP2_D_E
+NNGCSystem/SoundLib/build/libraries/snd/src/snd_InstancePool.cpp, TFP2_D_E
+NNGCSystem/SoundLib/build/libraries/snd/src/snd_Lfo.cpp, TFP2_D_E
+NNGCSystem/SoundLib/build/libraries/snd/src/snd_MmlParser.cpp, TFP2_D_E
+NNGCSystem/SoundLib/build/libraries/snd/src/snd_MmlSeqTrack.cpp, TFP2_D_E
+NNGCSystem/SoundLib/build/libraries/snd/src/snd_MmlSeqTrackAllocator.cpp, TFP2_D_E
+NNGCSystem/SoundLib/build/libraries/snd/src/snd_PlayerHeap.cpp, TFP2_D_E
+NNGCSystem/SoundLib/build/libraries/snd/src/snd_RemoteSpeaker.cpp, TFP2_D_E
+NNGCSystem/SoundLib/build/libraries/snd/src/snd_RemoteSpeakerManager.cpp, TFP2_D_E
+NNGCSystem/SoundLib/build/libraries/snd/src/snd_SeqFile.cpp, TFP2_D_E
+NNGCSystem/SoundLib/build/libraries/snd/src/snd_SeqPlayer.cpp, TFP2_D_E
+NNGCSystem/SoundLib/build/libraries/snd/src/snd_SeqSound.cpp, TFP2_D_E
+NNGCSystem/SoundLib/build/libraries/snd/src/snd_SeqSoundHandle.cpp, TFP2_D_E
+NNGCSystem/SoundLib/build/libraries/snd/src/snd_SeqTrack.cpp, TFP2_D_E
+NNGCSystem/SoundLib/build/libraries/snd/src/snd_SoundActor.cpp, TFP2_D_E
+NNGCSystem/SoundLib/build/libraries/snd/src/snd_SoundArchive.cpp, TFP2_D_E
+NNGCSystem/SoundLib/build/libraries/snd/src/snd_SoundArchiveFile.cpp, TFP2_D_E
+NNGCSystem/SoundLib/build/libraries/snd/src/snd_SoundArchiveLoader.cpp, TFP2_D_E
+NNGCSystem/SoundLib/build/libraries/snd/src/snd_SoundArchivePlayer.cpp, TFP2_D_E
+NNGCSystem/SoundLib/build/libraries/snd/src/snd_SoundHandle.cpp, TFP2_D_E
+NNGCSystem/SoundLib/build/libraries/snd/src/snd_SoundHeap.cpp, TFP2_D_E
+NNGCSystem/SoundLib/build/libraries/snd/src/snd_SoundPlayer.cpp, TFP2_D_E
+NNGCSystem/SoundLib/build/libraries/snd/src/snd_SoundStartable.cpp, TFP2_D_E
+NNGCSystem/SoundLib/build/libraries/snd/src/snd_SoundSystem.cpp, TFP2_D_E
+NNGCSystem/SoundLib/build/libraries/snd/src/snd_SoundThread.cpp, TFP2_D_E
+NNGCSystem/SoundLib/build/libraries/snd/src/snd_StrmChannel.cpp, TFP2_D_E
+NNGCSystem/SoundLib/build/libraries/snd/src/snd_StrmFile.cpp, TFP2_D_E
+NNGCSystem/SoundLib/build/libraries/snd/src/snd_StrmPlayer.cpp, TFP2_D_E
+NNGCSystem/SoundLib/build/libraries/snd/src/snd_StrmSound.cpp, TFP2_D_E
+NNGCSystem/SoundLib/build/libraries/snd/src/snd_StrmSoundHandle.cpp, TFP2_D_E
+NNGCSystem/SoundLib/build/libraries/snd/src/snd_Task.cpp, TFP2_D_E
+NNGCSystem/SoundLib/build/libraries/snd/src/snd_TaskManager.cpp, TFP2_D_E
+NNGCSystem/SoundLib/build/libraries/snd/src/snd_TaskThread.cpp, TFP2_D_E
+NNGCSystem/SoundLib/build/libraries/snd/src/snd_Util.cpp, TFP2_D_E
+NNGCSystem/SoundLib/build/libraries/snd/src/snd_Voice.cpp, TFP2_D_E
+NNGCSystem/SoundLib/build/libraries/snd/src/snd_VoiceManager.cpp, TFP2_D_E
+NNGCSystem/SoundLib/build/libraries/snd/src/snd_WaveArchive.cpp, TFP2_D_E
+NNGCSystem/SoundLib/build/libraries/snd/src/snd_WaveFile.cpp, TFP2_D_E
+NNGCSystem/SoundLib/build/libraries/snd/src/snd_WaveSound.cpp, TFP2_D_E
+NNGCSystem/SoundLib/build/libraries/snd/src/snd_WaveSoundHandle.cpp, TFP2_D_E
+NNGCSystem/SoundLib/build/libraries/snd/src/snd_WsdFile.cpp, TFP2_D_E
+NNGCSystem/SoundLib/build/libraries/snd/src/snd_WsdPlayer.cpp, TFP2_D_E
+NNGCSystem/SoundLib/include/, TFP2_D_E
+NNGCSystem/SoundLib/include/nw4r/, TFP2_D_E
+NNGCSystem/SoundLib/include/nw4r/snd/, TFP2_D_E
+NNGCSystem/SoundLib/include/nw4r/snd/AxfxImpl.h, TFP2_D_E
+NNGCSystem/SoundLib/include/nw4r/snd/AxManager.h, TFP2_D_E
+NNGCSystem/SoundLib/include/nw4r/snd/AxVoice.h, TFP2_D_E
+NNGCSystem/SoundLib/include/nw4r/snd/Bank.h, TFP2_D_E
+NNGCSystem/SoundLib/include/nw4r/snd/BasicPlayer.h, TFP2_D_E
+NNGCSystem/SoundLib/include/nw4r/snd/BasicSound.h, TFP2_D_E
+NNGCSystem/SoundLib/include/nw4r/snd/BiquadFilterCallback.h, TFP2_D_E
+NNGCSystem/SoundLib/include/nw4r/snd/Channel.h, TFP2_D_E
+NNGCSystem/SoundLib/include/nw4r/snd/DisposeCallbackManager.h, TFP2_D_E
+NNGCSystem/SoundLib/include/nw4r/snd/DvdSoundArchive.h, TFP2_D_E
+NNGCSystem/SoundLib/include/nw4r/snd/EnvGenerator.h, TFP2_D_E
+NNGCSystem/SoundLib/include/nw4r/snd/ExternalSoundPlayer.h, TFP2_D_E
+NNGCSystem/SoundLib/include/nw4r/snd/FrameHeap.h, TFP2_D_E
+NNGCSystem/SoundLib/include/nw4r/snd/global.h, TFP2_D_E
+NNGCSystem/SoundLib/include/nw4r/snd/InstancePool.h, TFP2_D_E
+NNGCSystem/SoundLib/include/nw4r/snd/Lfo.h, TFP2_D_E
+NNGCSystem/SoundLib/include/nw4r/snd/MmlParser.h, TFP2_D_E
+NNGCSystem/SoundLib/include/nw4r/snd/MmlSeqTrack.h, TFP2_D_E
+NNGCSystem/SoundLib/include/nw4r/snd/MmlSeqTrackAllocator.h, TFP2_D_E
+NNGCSystem/SoundLib/include/nw4r/snd/MoveValue.h, TFP2_D_E
+NNGCSystem/SoundLib/include/nw4r/snd/NoteOnCallback.h, TFP2_D_E
+NNGCSystem/SoundLib/include/nw4r/snd/PlayerHeap.h, TFP2_D_E
+NNGCSystem/SoundLib/include/nw4r/snd/RemoteSpeaker.h, TFP2_D_E
+NNGCSystem/SoundLib/include/nw4r/snd/SeqPlayer.h, TFP2_D_E
+NNGCSystem/SoundLib/include/nw4r/snd/SeqSound.h, TFP2_D_E
+NNGCSystem/SoundLib/include/nw4r/snd/SeqSoundHandle.h, TFP2_D_E
+NNGCSystem/SoundLib/include/nw4r/snd/SeqTrack.h, TFP2_D_E
+NNGCSystem/SoundLib/include/nw4r/snd/SeqTrackAllocator.h, TFP2_D_E
+NNGCSystem/SoundLib/include/nw4r/snd/SoundActor.h, TFP2_D_E
+NNGCSystem/SoundLib/include/nw4r/snd/SoundArchiveFile.h, TFP2_D_E
+NNGCSystem/SoundLib/include/nw4r/snd/SoundArchiveLoader.h, TFP2_D_E
+NNGCSystem/SoundLib/include/nw4r/snd/SoundArchivePlayer.h, TFP2_D_E
+NNGCSystem/SoundLib/include/nw4r/snd/SoundHandle.h, TFP2_D_E
+NNGCSystem/SoundLib/include/nw4r/snd/SoundInstanceManager.h, TFP2_D_E
+NNGCSystem/SoundLib/include/nw4r/snd/SoundMemoryAllocatable.h, TFP2_D_E
+NNGCSystem/SoundLib/include/nw4r/snd/SoundPlayer.h, TFP2_D_E
+NNGCSystem/SoundLib/include/nw4r/snd/SoundStartable.h, TFP2_D_E
+NNGCSystem/SoundLib/include/nw4r/snd/SoundSystem.h, TFP2_D_E
+NNGCSystem/SoundLib/include/nw4r/snd/SoundThread.h, TFP2_D_E
+NNGCSystem/SoundLib/include/nw4r/snd/StrmChannel.h, TFP2_D_E
+NNGCSystem/SoundLib/include/nw4r/snd/StrmFile.h, TFP2_D_E
+NNGCSystem/SoundLib/include/nw4r/snd/StrmPlayer.h, TFP2_D_E
+NNGCSystem/SoundLib/include/nw4r/snd/StrmSound.h, TFP2_D_E
+NNGCSystem/SoundLib/include/nw4r/snd/StrmSoundHandle.h, TFP2_D_E
+NNGCSystem/SoundLib/include/nw4r/snd/Task.h, TFP2_D_E
+NNGCSystem/SoundLib/include/nw4r/snd/Util.h, TFP2_D_E
+NNGCSystem/SoundLib/include/nw4r/snd/Voice.h, TFP2_D_E
+NNGCSystem/SoundLib/include/nw4r/snd/VoiceManager.h, TFP2_D_E
+NNGCSystem/SoundLib/include/nw4r/snd/WaveFile.h, TFP2_D_E
+NNGCSystem/SoundLib/include/nw4r/snd/WaveSound.h, TFP2_D_E
+NNGCSystem/SoundLib/include/nw4r/snd/WaveSoundHandle.h, TFP2_D_E
+NNGCSystem/SoundLib/include/nw4r/snd/WsdPlayer.h, TFP2_D_E
+NNGCSystem/SystemLib/, ISSM_D; TFP2_D_E
+NNGCSystem/SystemLib/build/, ISSM_D; TFP2_D_E
+NNGCSystem/SystemLib/build/libraries/, ISSM_D; TFP2_D_E
+NNGCSystem/SystemLib/build/libraries/db/, ISSM_D; TFP2_D_E
+NNGCSystem/SystemLib/build/libraries/db/src/, ISSM_D; TFP2_D_E
+NNGCSystem/SystemLib/build/libraries/db/src/db_assert.cpp, ISSM_D; TFP2_D_E
+NNGCSystem/SystemLib/build/libraries/db/src/db_console.cpp, ISSM_D; TFP2_D_E
+NNGCSystem/SystemLib/build/libraries/db/src/db_DbgPrintBase.cpp, ISSM_D; TFP2_D_E
+NNGCSystem/SystemLib/build/libraries/db/src/db_directPrint.cpp, ISSM_D; TFP2_D_E
+NNGCSystem/SystemLib/build/libraries/db/src/db_exception.cpp, ISSM_D; TFP2_D_E
+NNGCSystem/SystemLib/build/libraries/db/src/db_mapFile.cpp, ISSM_D; TFP2_D_E
+NNGCSystem/SystemLib/build/libraries/dw/, ISSM_D
+NNGCSystem/SystemLib/build/libraries/dw/src/, ISSM_D
+NNGCSystem/SystemLib/build/libraries/dw/src/dw_Graphics.cpp, ISSM_D
+NNGCSystem/SystemLib/build/libraries/dw/src/dw_RmtPad.cpp, ISSM_D
+NNGCSystem/SystemLib/build/libraries/dw/src/dw_Window.cpp, ISSM_D
+NNGCSystem/SystemLib/build/libraries/dw/src/dw_WindowLayout.cpp, ISSM_D
+NNGCSystem/SystemLib/build/libraries/dw/src/dw_WindowManager.cpp, ISSM_D
+NNGCSystem/SystemLib/build/libraries/math/, ISSM_D; TFP2_D_E
+NNGCSystem/SystemLib/build/libraries/math/src/, ISSM_D; TFP2_D_E
+NNGCSystem/SystemLib/build/libraries/math/src/math_arithmetic.cpp, TFP2_D_E
+NNGCSystem/SystemLib/build/libraries/math/src/math_geometry.cpp, TFP2_D_E
+NNGCSystem/SystemLib/build/libraries/math/src/math_triangular.cpp, ISSM_D; TFP2_D_E
+NNGCSystem/SystemLib/build/libraries/math/src/math_types.cpp, TFP2_D_E
+NNGCSystem/SystemLib/build/libraries/mcs/, TFP2_D_E
+NNGCSystem/SystemLib/build/libraries/mcs/src/, TFP2_D_E
+NNGCSystem/SystemLib/build/libraries/mcs/src/mcs_McsFileStream.cpp, TFP2_D_E
+NNGCSystem/SystemLib/build/libraries/mcs/src/mcs_simpleRingBuffer.cpp, TFP2_D_E
+NNGCSystem/SystemLib/build/libraries/ut/, ISSM_D; TFP2_D_E
+NNGCSystem/SystemLib/build/libraries/ut/src/, ISSM_D; TFP2_D_E
+NNGCSystem/SystemLib/build/libraries/ut/src/ut_binaryFileFormat.cpp, ISSM_D; TFP2_D_E
+NNGCSystem/SystemLib/build/libraries/ut/src/ut_CharStrmReader.cpp, ISSM_D; TFP2_D_E
+NNGCSystem/SystemLib/build/libraries/ut/src/ut_CharWriter.cpp, ISSM_D; TFP2_D_E
+NNGCSystem/SystemLib/build/libraries/ut/src/ut_DvdFileStream.cpp, TFP2_D_E
+NNGCSystem/SystemLib/build/libraries/ut/src/ut_DvdLockedFileStream.cpp, TFP2_D_E
+NNGCSystem/SystemLib/build/libraries/ut/src/ut_FileStream.cpp, TFP2_D_E
+NNGCSystem/SystemLib/build/libraries/ut/src/ut_Font.cpp, ISSM_D; TFP2_D_E
+NNGCSystem/SystemLib/build/libraries/ut/src/ut_IOStream.cpp, TFP2_D_E
+NNGCSystem/SystemLib/build/libraries/ut/src/ut_LinkList.cpp, ISSM_D; TFP2_D_E
+NNGCSystem/SystemLib/build/libraries/ut/src/ut_list.cpp, ISSM_D; TFP2_D_E
+NNGCSystem/SystemLib/build/libraries/ut/src/ut_LockedCache.cpp, TFP2_D_E
+NNGCSystem/SystemLib/build/libraries/ut/src/ut_ResFont.cpp, ISSM_D; TFP2_D_E
+NNGCSystem/SystemLib/build/libraries/ut/src/ut_ResFontBase.cpp, ISSM_D; TFP2_D_E
+NNGCSystem/SystemLib/build/libraries/ut/src/ut_RomFont.cpp, ISSM_D; TFP2_D_E
+NNGCSystem/SystemLib/build/libraries/ut/src/ut_TagProcessorBase.cpp, ISSM_D; TFP2_D_E
+NNGCSystem/SystemLib/build/libraries/ut/src/ut_TextWriterBase.cpp, ISSM_D; TFP2_D_E
+NNGCSystem/SystemLib/include/, ISSM_D; TFP2_D_E
+NNGCSystem/SystemLib/include/nw4r/, ISSM_D; TFP2_D_E
+NNGCSystem/SystemLib/include/nw4r/config/, ISSM_D
+NNGCSystem/SystemLib/include/nw4r/config/compiler/, ISSM_D
+NNGCSystem/SystemLib/include/nw4r/config/compiler/cwcc.h, ISSM_D
+NNGCSystem/SystemLib/include/nw4r/config/compiler.h, ISSM_D
+NNGCSystem/SystemLib/include/nw4r/db/, ISSM_D; TFP2_D_E
+NNGCSystem/SystemLib/include/nw4r/db/assert.h, ISSM_D
+NNGCSystem/SystemLib/include/nw4r/db/console.h, ISSM_D; TFP2_D_E
+NNGCSystem/SystemLib/include/nw4r/db/DbgPrint.h, ISSM_D
+NNGCSystem/SystemLib/include/nw4r/db/DbgPrintBase.h, ISSM_D; TFP2_D_E
+NNGCSystem/SystemLib/include/nw4r/db/directPrint.h, ISSM_D
+NNGCSystem/SystemLib/include/nw4r/db/exception.h, ISSM_D
+NNGCSystem/SystemLib/include/nw4r/db/mapFile.h, ISSM_D
+NNGCSystem/SystemLib/include/nw4r/db/WideDbgPrint.h, ISSM_D
+NNGCSystem/SystemLib/include/nw4r/db.h, ISSM_D
+NNGCSystem/SystemLib/include/nw4r/dw/, ISSM_D
+NNGCSystem/SystemLib/include/nw4r/dw/ClPad.h, ISSM_D
+NNGCSystem/SystemLib/include/nw4r/dw/GcPad.h, ISSM_D
+NNGCSystem/SystemLib/include/nw4r/dw/Graphics.h, ISSM_D
+NNGCSystem/SystemLib/include/nw4r/dw/Pad.h, ISSM_D
+NNGCSystem/SystemLib/include/nw4r/dw/PadButton.h, ISSM_D
+NNGCSystem/SystemLib/include/nw4r/dw/Pointer.h, ISSM_D
+NNGCSystem/SystemLib/include/nw4r/dw/RmtPad.h, ISSM_D
+NNGCSystem/SystemLib/include/nw4r/dw/Types.h, ISSM_D
+NNGCSystem/SystemLib/include/nw4r/dw/Window.h, ISSM_D
+NNGCSystem/SystemLib/include/nw4r/dw/WindowLayout.h, ISSM_D
+NNGCSystem/SystemLib/include/nw4r/dw/WindowManager.h, ISSM_D
+NNGCSystem/SystemLib/include/nw4r/dw/WindowMenu.h, ISSM_D
+NNGCSystem/SystemLib/include/nw4r/dw/WindowSystem.h, ISSM_D
+NNGCSystem/SystemLib/include/nw4r/math/, ISSM_D; TFP2_D_E
+NNGCSystem/SystemLib/include/nw4r/math/arithmetic.h, ISSM_D; TFP2_D_E
+NNGCSystem/SystemLib/include/nw4r/math/config.h, ISSM_D
+NNGCSystem/SystemLib/include/nw4r/math/constant.h, ISSM_D
+NNGCSystem/SystemLib/include/nw4r/math/equation.h, ISSM_D
+NNGCSystem/SystemLib/include/nw4r/math/geometry.h, ISSM_D; TFP2_D_E
+NNGCSystem/SystemLib/include/nw4r/math/triangular.h, ISSM_D; TFP2_D_E
+NNGCSystem/SystemLib/include/nw4r/math/types.h, ISSM_D; TFP2_D_E
+NNGCSystem/SystemLib/include/nw4r/math.h, ISSM_D
+NNGCSystem/SystemLib/include/nw4r/misc.h, ISSM_D
+NNGCSystem/SystemLib/include/nw4r/ut/, ISSM_D; TFP2_D_E
+NNGCSystem/SystemLib/include/nw4r/ut/ArchiveFontBase.h, ISSM_D
+NNGCSystem/SystemLib/include/nw4r/ut/binaryFileFormat.h, ISSM_D
+NNGCSystem/SystemLib/include/nw4r/ut/CharStrmReader.h, ISSM_D; TFP2_D_E
+NNGCSystem/SystemLib/include/nw4r/ut/CharWriter.h, ISSM_D; TFP2_D_E
+NNGCSystem/SystemLib/include/nw4r/ut/Color.h, ISSM_D; TFP2_D_E
+NNGCSystem/SystemLib/include/nw4r/ut/DvdFileStream.h, ISSM_D; TFP2_D_E
+NNGCSystem/SystemLib/include/nw4r/ut/DvdLockedFileStream.h, ISSM_D; TFP2_D_E
+NNGCSystem/SystemLib/include/nw4r/ut/FileStream.h, ISSM_D; TFP2_D_E
+NNGCSystem/SystemLib/include/nw4r/ut/Font.h, ISSM_D; TFP2_D_E
+NNGCSystem/SystemLib/include/nw4r/ut/fontResourceFormat.h, ISSM_D
+NNGCSystem/SystemLib/include/nw4r/ut/GPPerf.h, ISSM_D
+NNGCSystem/SystemLib/include/nw4r/ut/inlines.h, ISSM_D; TFP2_D_E
+NNGCSystem/SystemLib/include/nw4r/ut/IOStream.h, ISSM_D; TFP2_D_E
+NNGCSystem/SystemLib/include/nw4r/ut/LinkList.h, ISSM_D; TFP2_D_E
+NNGCSystem/SystemLib/include/nw4r/ut/list.h, ISSM_D; TFP2_D_E
+NNGCSystem/SystemLib/include/nw4r/ut/Lock.h, ISSM_D; TFP2_D_E
+NNGCSystem/SystemLib/include/nw4r/ut/LockedCache.h, ISSM_D; TFP2_D_E
+NNGCSystem/SystemLib/include/nw4r/ut/NandFileStream.h, ISSM_D
+NNGCSystem/SystemLib/include/nw4r/ut/PackedFont.h, ISSM_D
+NNGCSystem/SystemLib/include/nw4r/ut/Rect.h, ISSM_D; TFP2_D_E
+NNGCSystem/SystemLib/include/nw4r/ut/ResFont.h, ISSM_D
+NNGCSystem/SystemLib/include/nw4r/ut/ResFontBase.h, ISSM_D; TFP2_D_E
+NNGCSystem/SystemLib/include/nw4r/ut/RomFont.h, ISSM_D
+NNGCSystem/SystemLib/include/nw4r/ut/RuntimeTypeInfo.h, ISSM_D; TFP2_D_E
+NNGCSystem/SystemLib/include/nw4r/ut/TagProcessor.h, ISSM_D
+NNGCSystem/SystemLib/include/nw4r/ut/TagProcessorBase.h, ISSM_D
+NNGCSystem/SystemLib/include/nw4r/ut/TextWriter.h, ISSM_D
+NNGCSystem/SystemLib/include/nw4r/ut/TextWriterBase.h, ISSM_D; TFP2_D_E
+NNGCSystem/SystemLib/include/nw4r/ut/WideTagProcessor.h, ISSM_D; TFP2_D_E
+NNGCSystem/SystemLib/include/nw4r/ut/WideTextWriter.h, ISSM_D; TFP2_D_E
+NNGCSystem/SystemLib/include/nw4r/ut.h, ISSM_D

@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>Wii Libraries</title>
+		<link rel="stylesheet" href="github-markdown-dark.css">
+		<style>
+			#sidebar {
+				width: 13em;
+				height: 100%;
+				position: fixed;
+				padding-top: 1em;
+				left: 0;
+			}
+			#sidebar ul {
+				list-style-type: none;
+				padding-inline-start: 10px;
+			}
+			#sidebar ul ul {
+				list-style-type: '-   ';
+				padding-inline-start: 20px;
+			}
+
+			main  {
+				margin-left: 13em;
+				margin-right: 1em;
+				right: 0;
+			}
+
+			.line td {
+				vertical-align: middle;
+				padding: 0px 13px !important;
+			}
+			.line td:nth-child(2) {
+				font-size: 0.9em;
+			}
+			.prefix {
+				font-family: monospace;
+				white-space: pre;
+				display: inline-block;
+				transform: scaleY(1.1);
+			}
+		</style>
+	</head>
+	<body class="markdown-body">
+		<div id="sidebar">
+			<ul>
+				<li><a href="#overview">Overview</a></li>
+				<li><a href="#sources">Sources</a></li>
+				<li>
+					<a href="#libs">Libraries</a>
+					<ul>
+						{% for lib in libs %}
+							<li><a href="#lib-{{lib.abbr}}">{{lib.name}}</a></li>
+						{% endfor %}
+					</ul>
+				</li>
+			</ul>
+		</div>
+		<main>
+			<div>
+				<h1 id="overview">Overview</h1>
+				<p>This is a collection of file paths from various Wii libraries.</p>
+			</div>
+			<div>
+				<h1 id="sources">Sources</h1>
+				<table>
+					<tr>
+						<th>Abbreviation</th>
+						<th>Game Name</th>
+						<th>Short Name</th>
+						<th>ID</th>
+						<th>File</th>
+					</tr>
+					{% for src in srcs %}
+						<tr>
+							<td>{{src.abbr}}</td>
+							<td>{{src.gameName}}</td>
+							<td>{{src.shortName}}</td>
+							<td>
+								{%- if src.link is none -%}
+									{{src.gameID}}
+								{%- else -%}
+									<a href="{{src.link}}">{{src.gameID}}</a>
+								{%- endif -%}
+							</td>
+							<td>{{src.file}}</td>
+						</tr>
+					{% endfor %}
+				</table>
+			</div>
+			<div>
+				<h1 id="libs">Libraries</h1>
+
+				{% for lib in libs %}
+					<div>
+						<h2 id="lib-{{lib.abbr}}">{{lib.name}}</h2>
+						<table>
+							<tr>
+								<th>Path</th>
+								<th>Sources</th>
+								<!--<th>Notes</th>-->
+							</tr>
+							{% for line in lib.lines %}
+								<tr class="line">
+									{% autoescape false %}
+										<td>{{line.path}}</td>
+									{% endautoescape %}
+									<td>{{line.sources}}</td>
+									{# <td>{{line.notes}}</td> #}
+								</tr>
+							{% endfor %}
+						</table>
+					</div>
+				{% endfor %}
+			</div>
+		</main>
+	</body>
+</html>

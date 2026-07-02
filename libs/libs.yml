@@ -1,0 +1,23 @@
+- name: Revolution SDK
+  file: rvl_sdk.csv
+
+- name: NW4R
+  file: nw4r.csv
+
+- name: EGG
+  file: egg.csv
+
+- name: MSL
+  file: msl.csv
+
+- name: MetroTRK
+  file: metrotrk.csv
+
+- name: Revolution Face Library
+  file: rfl.csv
+
+- name: RevoEX
+  file: revoex.csv
+
+- name: DWC
+  file: dwc.csv

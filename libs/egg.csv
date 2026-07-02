@@ -1,0 +1,114 @@
+egg/, BBA_D; WFU
+egg/modules/, BBA_D
+egg/modules/audio/, BBA_D; WFU
+egg/modules/audio/src/, BBA_D; WFU
+egg/modules/audio/src/eggAudio3DActor.cpp, BBA_D; WFU
+egg/modules/audio/src/eggAudioArcPlayerMgr.cpp, BBA_D; WFU
+egg/modules/audio/src/eggAudioExpMgr.cpp, BBA_D; WFU
+egg/modules/audio/src/eggAudioFxMgr.cpp, BBA_D; WFU
+egg/modules/audio/src/eggAudioHeapMgr.cpp, BBA_D; WFU
+egg/modules/audio/src/eggAudioMgr.cpp, BBA_D; WFU
+egg/modules/audio/src/eggAudioMultiArcMgr.o, BBA_D
+egg/modules/audio/src/eggAudioRmtSpeakerMgr.o, BBA_D
+egg/modules/audio/src/eggAudioSystem.cpp, BBA_D; WFU
+egg/modules/audio/src/eggAudioUtility.o, BBA_D
+egg/modules/core/, BBA_D; WFU
+egg/modules/core/src/, BBA_D; WFU
+egg/modules/core/src/eggAllocator.cpp, BBA_D; WFU
+egg/modules/core/src/eggArchive.cpp, BBA_D; WFU
+egg/modules/core/src/eggAsyncDisplay.cpp, BBA_D; WFU
+egg/modules/core/src/eggCntFile.cpp, WFU
+egg/modules/core/src/eggColorFader.cpp, BBA_D
+egg/modules/core/src/eggController.cpp, BBA_D; WFU
+egg/modules/core/src/eggDecomp.cpp, BBA_D; WFU
+egg/modules/core/src/eggDisplay.cpp, BBA_D; WFU
+egg/modules/core/src/eggDisposer.cpp, BBA_D; WFU
+egg/modules/core/src/eggDvdFile.cpp, BBA_D; WFU
+egg/modules/core/src/eggDvdRipper.cpp, BBA_D; WFU
+egg/modules/core/src/eggExpHeap.cpp, BBA_D; WFU
+egg/modules/core/src/eggFrmHeap.cpp, BBA_D; WFU
+egg/modules/core/src/eggGraphicsFifo.cpp, BBA_D; WFU
+egg/modules/core/src/eggHeap.cpp, BBA_D; WFU
+egg/modules/core/src/eggLongStopWatch.o, BBA_D
+egg/modules/core/src/eggPerf.o, BBA_D
+egg/modules/core/src/eggPerfMeter.o, BBA_D
+egg/modules/core/src/eggProcessMeter.o, BBA_D
+egg/modules/core/src/eggScene.cpp, BBA_D; WFU
+egg/modules/core/src/eggSceneManager.cpp, BBA_D; WFU
+egg/modules/core/src/eggStream.cpp, BBA_D; WFU
+egg/modules/core/src/eggSystem.cpp, BBA_D; WFU
+egg/modules/core/src/eggTaskThread.cpp, BBA_D; WFU
+egg/modules/core/src/eggThread.cpp, BBA_D; WFU
+egg/modules/core/src/eggUnitHeap.cpp, BBA_D; WFU
+egg/modules/core/src/eggVideo.cpp, BBA_D; WFU
+egg/modules/core/src/eggXfb.cpp, BBA_D; WFU
+egg/modules/core/src/eggXfbManager.cpp, BBA_D; WFU
+egg/modules/geom/, BBA_D; WFU
+egg/modules/geom/src/, BBA_D
+egg/modules/geom/src/eggAABB.cpp, WFU
+egg/modules/geom/src/eggGeomFrustum.cpp, WFU
+egg/modules/geom/src/eggLine.o, BBA_D
+egg/modules/geom/src/eggPlane.cpp, BBA_D; WFU
+egg/modules/geom/src/eggSphere.o, BBA_D
+egg/modules/geom/src/eggTriangle.o, BBA_D
+egg/modules/gfx/, BBA_D; WFU
+egg/modules/gfx/src/, BBA_D
+egg/modules/gfx/src/eggCamera.o, BBA_D
+egg/modules/gfx/src/eggDrawHelper.o, BBA_D
+egg/modules/gfx/src/eggGUI.o, BBA_D
+egg/modules/gfx/src/eggLight.o, BBA_D
+egg/modules/gfx/src/eggPalette.o, BBA_D
+egg/modules/gfx/src/eggProjection.o, BBA_D
+egg/modules/gfx/src/eggTexture.cpp, BBA_D; WFU
+egg/modules/gfx/src/eggViewport.o, BBA_D
+egg/modules/gfxe/, WFU
+egg/modules/gfxe/src/, 
+egg/modules/gfxe/src/eggDrawGX.cpp, WFU
+egg/modules/gfxe/src/eggDrawPathBase.cpp, WFU
+egg/modules/gfxe/src/eggG3dObj.cpp, WFU
+egg/modules/gfxe/src/eggG3DUtility.cpp, WFU
+egg/modules/gfxe/src/eggGfxEngine.cpp, WFU
+egg/modules/gfxe/src/eggGfxEngineTypes.cpp, WFU
+egg/modules/gfxe/src/eggGlobalDrawState.cpp, WFU
+egg/modules/gfxe/src/eggGXUtility.cpp, WFU
+egg/modules/gfxe/src/eggIScnProc.cpp, WFU
+egg/modules/gfxe/src/eggIScnProcModel.cpp, WFU
+egg/modules/gfxe/src/eggLightManager.cpp, WFU
+egg/modules/gfxe/src/eggModelBoundingInfo.cpp, WFU
+egg/modules/gfxe/src/eggModelEx.cpp, WFU
+egg/modules/gfxe/src/eggModelSnapshot.cpp, WFU
+egg/modules/gfxe/src/eggPreRenderManager.cpp, WFU
+egg/modules/gfxe/src/eggScnRenderer.cpp, WFU
+egg/modules/gfxe/src/eggScnRootEx.cpp, WFU
+egg/modules/gfxe/src/eggScreenEffectBase.cpp, WFU
+egg/modules/gfxe/src/eggShadowTexture.cpp, WFU
+egg/modules/gfxe/src/eggStateEfb.cpp, WFU
+egg/modules/gfxe/src/eggStateGX.cpp, WFU
+egg/modules/gfxe/src/eggTextureBuffer.cpp, WFU
+egg/modules/hostio/, BBA_D
+egg/modules/hostio/src/, BBA_D
+egg/modules/hostio/src/eggHioScreenCapture.o, BBA_D
+egg/modules/hostio/src/eggHostIO.o, BBA_D
+egg/modules/math/, BBA_D; WFU
+egg/modules/math/src/, BBA_D
+egg/modules/math/src/eggBoundBox.o, BBA_D
+egg/modules/math/src/eggMath.o, BBA_D
+egg/modules/math/src/eggMatrix.cpp, BBA_D; WFU
+egg/modules/math/src/eggQuat.cpp, BBA_D; WFU
+egg/modules/math/src/eggVector.cpp, BBA_D; WFU
+egg/modules/prim/, BBA_D; WFU
+egg/modules/prim/src/, BBA_D
+egg/modules/prim/src/eggAssert.o, BBA_D
+egg/modules/prim/src/eggList.o, BBA_D
+egg/modules/prim/src/eggTypes.cpp, WFU
+egg/modules/util/, BBA_D; WFU
+egg/modules/util/src/, BBA_D
+egg/modules/util/src/eggControllerMem.o, BBA_D
+egg/modules/util/src/eggEffect.o, BBA_D
+egg/modules/util/src/eggEffectCreator.o, BBA_D
+egg/modules/util/src/eggEffectManager.o, BBA_D
+egg/modules/util/src/eggEffectResource.o, BBA_D
+egg/modules/util/src/eggException.cpp, BBA_D; WFU
+egg/modules/util/src/eggMsgRes.cpp, WFU
+egg/modules/util/src/eggSaveBanner.o, BBA_D
+egg/modules/util/src/eggScreenShot.o, BBA_D

@@ -1,0 +1,83 @@
+metrotrk/, CMWP_D; Gor_D_M; KDSCE_M
+metrotrk/__exception.s, CMWP_D; Gor_D_M; KDSCE_M
+metrotrk/custconn/, CMWP_D; Gor_D_M; KDSCE_M
+metrotrk/custconn/cc_ddh.o, CMWP_D; KDSCE_M
+metrotrk/custconn/cc_gdev.o, CMWP_D; Gor_D_M; KDSCE_M
+metrotrk/custconn/CircleBuffer.o, CMWP_D; Gor_D_M; KDSCE_M
+metrotrk/custconn/MWCriticalSection_gc.o, CMWP_D; Gor_D_M; KDSCE_M
+metrotrk/custconn/MWEvent_gc.o, CMWP_D; KDSCE_M
+metrotrk/custconn/MWMutex_gc.o, CMWP_D; KDSCE_M
+metrotrk/custconn/MWTrace.o, CMWP_D; KDSCE_M
+metrotrk/dispatch.o, CMWP_D; Gor_D_M; KDSCE_M
+metrotrk/dolphin_trk.o, CMWP_D; Gor_D_M; KDSCE_M
+metrotrk/dolphin_trk_glue.o, CMWP_D; Gor_D_M; KDSCE_M
+metrotrk/flush_cache.o, CMWP_D; Gor_D_M; KDSCE_M
+metrotrk/main_TRK.o, CMWP_D; Gor_D_M; KDSCE_M
+metrotrk/mainloop.o, CMWP_D; Gor_D_M; KDSCE_M
+metrotrk/mem_TRK.o, CMWP_D; Gor_D_M; KDSCE_M
+metrotrk/mpc_7xx_603e.o, CMWP_D; Gor_D_M; KDSCE_M
+metrotrk/msg.o, CMWP_D; Gor_D_M; KDSCE_M
+metrotrk/msgbuf.o, CMWP_D; Gor_D_M; KDSCE_M
+metrotrk/msghndlr.o, CMWP_D; Gor_D_M; KDSCE_M
+metrotrk/mslsupp.o, CMWP_D; Gor_D_M; KDSCE_M
+metrotrk/notify.o, CMWP_D; Gor_D_M; KDSCE_M
+metrotrk/nubevent.o, CMWP_D; Gor_D_M; KDSCE_M
+metrotrk/nubinit.o, CMWP_D; Gor_D_M; KDSCE_M
+metrotrk/serpoll.o, CMWP_D; Gor_D_M; KDSCE_M
+metrotrk/string_TRK.o, CMWP_D; Gor_D_M; KDSCE_M
+metrotrk/support.o, CMWP_D; Gor_D_M; KDSCE_M
+metrotrk/targcont.o, CMWP_D; Gor_D_M; KDSCE_M
+metrotrk/target_options.o, CMWP_D; Gor_D_M; KDSCE_M
+metrotrk/targimpl.o, CMWP_D; Gor_D_M; KDSCE_M
+metrotrk/targsupp.s, CMWP_D; Gor_D_M; KDSCE_M
+RVL/, BBA_D; TFP2_D_E
+RVL/runtime_libs/, BBA_D; TFP2_D_E
+RVL/runtime_libs/debugger/, BBA_D; TFP2_D_E
+RVL/runtime_libs/debugger/embedded/, BBA_D; TFP2_D_E
+RVL/runtime_libs/debugger/embedded/MetroTRK/, BBA_D; TFP2_D_E
+RVL/runtime_libs/debugger/embedded/MetroTRK/Export/, BBA_D; TFP2_D_E
+RVL/runtime_libs/debugger/embedded/MetroTRK/Export/mslsupp.c, BBA_D; TFP2_D_E
+RVL/runtime_libs/debugger/embedded/MetroTRK/Os/, BBA_D
+RVL/runtime_libs/debugger/embedded/MetroTRK/Os/dolphin/, BBA_D
+RVL/runtime_libs/debugger/embedded/MetroTRK/Os/dolphin/dolphin_trk.o, BBA_D
+RVL/runtime_libs/debugger/embedded/MetroTRK/Os/dolphin/dolphin_trk_glue.o, BBA_D
+RVL/runtime_libs/debugger/embedded/MetroTRK/Os/dolphin/targcont.o, BBA_D
+RVL/runtime_libs/debugger/embedded/MetroTRK/Os/dolphin/target_options.o, BBA_D
+RVL/runtime_libs/debugger/embedded/MetroTRK/Os/dolphin/UDP_Stubs.o, BBA_D
+RVL/runtime_libs/debugger/embedded/MetroTRK/Os/dolphin/usr_put.o, BBA_D
+RVL/runtime_libs/debugger/embedded/MetroTRK/Portable/.o, BBA_D
+RVL/runtime_libs/debugger/embedded/MetroTRK/Portable/dispatch.o, BBA_D
+RVL/runtime_libs/debugger/embedded/MetroTRK/Portable/main_TRK.o, BBA_D
+RVL/runtime_libs/debugger/embedded/MetroTRK/Portable/mainloop.o, BBA_D
+RVL/runtime_libs/debugger/embedded/MetroTRK/Portable/mem_TRK.o, BBA_D
+RVL/runtime_libs/debugger/embedded/MetroTRK/Portable/msg.o, BBA_D
+RVL/runtime_libs/debugger/embedded/MetroTRK/Portable/msgbuf.o, BBA_D
+RVL/runtime_libs/debugger/embedded/MetroTRK/Portable/msghndlr.o, BBA_D
+RVL/runtime_libs/debugger/embedded/MetroTRK/Portable/mutex_TRK.o, BBA_D
+RVL/runtime_libs/debugger/embedded/MetroTRK/Portable/notify.o, BBA_D
+RVL/runtime_libs/debugger/embedded/MetroTRK/Portable/nubevent.o, BBA_D
+RVL/runtime_libs/debugger/embedded/MetroTRK/Portable/nubinit.o, BBA_D
+RVL/runtime_libs/debugger/embedded/MetroTRK/Portable/serpoll.o, BBA_D
+RVL/runtime_libs/debugger/embedded/MetroTRK/Portable/string_TRK.o, BBA_D
+RVL/runtime_libs/debugger/embedded/MetroTRK/Portable/support.o, BBA_D
+RVL/runtime_libs/debugger/embedded/MetroTRK/Processor/, BBA_D
+RVL/runtime_libs/debugger/embedded/MetroTRK/Processor/ppc/, BBA_D
+RVL/runtime_libs/debugger/embedded/MetroTRK/Processor/ppc/Export/, BBA_D
+RVL/runtime_libs/debugger/embedded/MetroTRK/Processor/ppc/Export/targsupp.o, BBA_D
+RVL/runtime_libs/debugger/embedded/MetroTRK/Processor/ppc/Generic/, BBA_D
+RVL/runtime_libs/debugger/embedded/MetroTRK/Processor/ppc/Generic/__exception.o, BBA_D
+RVL/runtime_libs/debugger/embedded/MetroTRK/Processor/ppc/Generic/flush_cache.o, BBA_D
+RVL/runtime_libs/debugger/embedded/MetroTRK/Processor/ppc/Generic/mpc_7xx_603e.o, BBA_D
+RVL/runtime_libs/debugger/embedded/MetroTRK/Processor/ppc/Generic/targimpl.o, BBA_D
+RVL/runtime_libs/gamedev/, BBA_D
+RVL/runtime_libs/gamedev/cust_connection/, BBA_D
+RVL/runtime_libs/gamedev/cust_connection/cc/, BBA_D
+RVL/runtime_libs/gamedev/cust_connection/cc/exi2/, BBA_D
+RVL/runtime_libs/gamedev/cust_connection/cc/exi2/GCN/, BBA_D
+RVL/runtime_libs/gamedev/cust_connection/cc/exi2/GCN/EXI2_GDEV_GCN/, BBA_D
+RVL/runtime_libs/gamedev/cust_connection/cc/exi2/GCN/EXI2_GDEV_GCN/main.o, BBA_D
+RVL/runtime_libs/gamedev/cust_connection/utils/, BBA_D
+RVL/runtime_libs/gamedev/cust_connection/utils/common/, BBA_D
+RVL/runtime_libs/gamedev/cust_connection/utils/common/CircleBuffer.o, BBA_D
+RVL/runtime_libs/gamedev/cust_connection/utils/gc/, BBA_D
+RVL/runtime_libs/gamedev/cust_connection/utils/gc/MWCriticalSection_gc.o, BBA_D

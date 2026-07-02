@@ -1,0 +1,549 @@
+RVL_SDK/, CMWP_D; Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D; TFP2_D_E
+RVL_SDK/build/, CMWP_D; Gor_D_E; ISSM_D; SdR_D; SmaDr; TFP2_D_E
+RVL_SDK/build/libraries/, CMWP_D; Gor_D_E; ISSM_D; SdR_D; SmaDr; TFP2_D_E
+RVL_SDK/build/libraries/ai/, SmaDr
+RVL_SDK/build/libraries/ai/src/, SmaDr
+RVL_SDK/build/libraries/ai/src/ai.c, SmaDr
+RVL_SDK/build/libraries/amcstubs/, SmaDr
+RVL_SDK/build/libraries/amcstubs/src/, SmaDr
+RVL_SDK/build/libraries/amcstubs/src/AmcExi2Stubs.c, SmaDr
+RVL_SDK/build/libraries/ar/, SmaDr
+RVL_SDK/build/libraries/ar/src/, SmaDr
+RVL_SDK/build/libraries/ar/src/ar.c, SmaDr
+RVL_SDK/build/libraries/ar/src/arq.c, SmaDr
+RVL_SDK/build/libraries/arc/, SdR_D
+RVL_SDK/build/libraries/arc/arc.c, SdR_D
+RVL_SDK/build/libraries/ax/, SmaDr
+RVL_SDK/build/libraries/ax/src/, SmaDr
+RVL_SDK/build/libraries/ax/src/AX.c, SmaDr
+RVL_SDK/build/libraries/ax/src/AXAlloc.c, SmaDr
+RVL_SDK/build/libraries/ax/src/AXAux.c, SmaDr
+RVL_SDK/build/libraries/ax/src/AXCL.c, SmaDr
+RVL_SDK/build/libraries/ax/src/AXOut.c, SmaDr
+RVL_SDK/build/libraries/ax/src/AXProf.c, SmaDr
+RVL_SDK/build/libraries/ax/src/AXSPB.c, SmaDr
+RVL_SDK/build/libraries/ax/src/AXVPB.c, SmaDr
+RVL_SDK/build/libraries/ax/src/DSPCode.c, SmaDr
+RVL_SDK/build/libraries/base/, SmaDr
+RVL_SDK/build/libraries/base/src/, SmaDr
+RVL_SDK/build/libraries/base/src/PPCArch.c, SmaDr
+RVL_SDK/build/libraries/bta/, CMWP_D; TFP2_D_E
+RVL_SDK/build/libraries/bta/src, CMWP_D; TFP2_D_E
+RVL_SDK/build/libraries/bta/src/components/, CMWP_D; TFP2_D_E
+RVL_SDK/build/libraries/bta/src/components/bta/, CMWP_D; TFP2_D_E
+RVL_SDK/build/libraries/bta/src/components/bta/dm/, CMWP_D; TFP2_D_E
+RVL_SDK/build/libraries/bta/src/components/bta/dm/bta_dm_act.c, CMWP_D; TFP2_D_E
+RVL_SDK/build/libraries/bta/src/components/bta/dm/bta_dm_api.c, CMWP_D; TFP2_D_E
+RVL_SDK/build/libraries/bta/src/components/bta/dm/bta_dm_main.c, CMWP_D; TFP2_D_E
+RVL_SDK/build/libraries/bta/src/components/bta/dm/bta_dm_pm.c, CMWP_D; TFP2_D_E
+RVL_SDK/build/libraries/bta/src/components/bta/fs/, CMWP_D
+RVL_SDK/build/libraries/bta/src/components/bta/fs/bta_fs_ci.c, CMWP_D
+RVL_SDK/build/libraries/bta/src/components/bta/hd/, CMWP_D; TFP2_D_E
+RVL_SDK/build/libraries/bta/src/components/bta/hd/bta_hd_act.c, CMWP_D; TFP2_D_E
+RVL_SDK/build/libraries/bta/src/components/bta/hh/, CMWP_D; TFP2_D_E
+RVL_SDK/build/libraries/bta/src/components/bta/hh/bta_hh_act.c, CMWP_D; TFP2_D_E
+RVL_SDK/build/libraries/bta/src/components/bta/hh/bta_hh_api.c, CMWP_D; TFP2_D_E
+RVL_SDK/build/libraries/bta/src/components/bta/hh/bta_hh_main.c, CMWP_D; TFP2_D_E
+RVL_SDK/build/libraries/bta/src/components/bta/hh/bta_hh_utils.c, CMWP_D; TFP2_D_E
+RVL_SDK/build/libraries/bta/src/components/bta/prm/, CMWP_D
+RVL_SDK/build/libraries/bta/src/components/bta/prm/bta_prm_api.c, CMWP_D
+RVL_SDK/build/libraries/bta/src/components/bta/prm/bta_prm_main.c, CMWP_D
+RVL_SDK/build/libraries/bta/src/components/bta/sys/, CMWP_D; TFP2_D_E
+RVL_SDK/build/libraries/bta/src/components/bta/sys/bd.c, CMWP_D; TFP2_D_E
+RVL_SDK/build/libraries/bta/src/components/bta/sys/bta_sys_conn.c, CMWP_D; TFP2_D_E
+RVL_SDK/build/libraries/bta/src/components/bta/sys/bta_sys_main.c, CMWP_D; TFP2_D_E
+RVL_SDK/build/libraries/bta/src/components/bta/sys/ptim.c, CMWP_D; TFP2_D_E
+RVL_SDK/build/libraries/bta/src/components/bta/sys/utl.c, CMWP_D; TFP2_D_E
+RVL_SDK/build/libraries/bte-stack/, CMWP_D; TFP2_D_E
+RVL_SDK/build/libraries/bte-stack/src/, CMWP_D; TFP2_D_E
+RVL_SDK/build/libraries/bte-stack/src/components/, CMWP_D; TFP2_D_E
+RVL_SDK/build/libraries/bte-stack/src/components/stack/, CMWP_D; TFP2_D_E
+RVL_SDK/build/libraries/bte-stack/src/components/stack/btm/, TFP2_D_E
+RVL_SDK/build/libraries/bte-stack/src/components/stack/btm/btm_acl.c, CMWP_D; TFP2_D_E
+RVL_SDK/build/libraries/bte-stack/src/components/stack/btm/btm_dev.c, CMWP_D; TFP2_D_E
+RVL_SDK/build/libraries/bte-stack/src/components/stack/btm/btm_devctl.c, CMWP_D; TFP2_D_E
+RVL_SDK/build/libraries/bte-stack/src/components/stack/btm/btm_discovery.c, CMWP_D; TFP2_D_E
+RVL_SDK/build/libraries/bte-stack/src/components/stack/btm/btm_inq.c, CMWP_D; TFP2_D_E
+RVL_SDK/build/libraries/bte-stack/src/components/stack/btm/btm_main.c, CMWP_D; TFP2_D_E
+RVL_SDK/build/libraries/bte-stack/src/components/stack/btm/btm_pm.c, CMWP_D; TFP2_D_E
+RVL_SDK/build/libraries/bte-stack/src/components/stack/btm/btm_sco.c, CMWP_D; TFP2_D_E
+RVL_SDK/build/libraries/bte-stack/src/components/stack/btm/btm_sec.c, CMWP_D; TFP2_D_E
+RVL_SDK/build/libraries/bte-stack/src/components/stack/btu/, CMWP_D; TFP2_D_E
+RVL_SDK/build/libraries/bte-stack/src/components/stack/btu/btu_hcif.c, CMWP_D; TFP2_D_E
+RVL_SDK/build/libraries/bte-stack/src/components/stack/btu/btu_init.c, CMWP_D; TFP2_D_E
+RVL_SDK/build/libraries/bte-stack/src/components/stack/gap/, CMWP_D; TFP2_D_E
+RVL_SDK/build/libraries/bte-stack/src/components/stack/gap/gap_api.c, CMWP_D; TFP2_D_E
+RVL_SDK/build/libraries/bte-stack/src/components/stack/gap/gap_conn.c, CMWP_D; TFP2_D_E
+RVL_SDK/build/libraries/bte-stack/src/components/stack/gap/gap_utils.c, CMWP_D; TFP2_D_E
+RVL_SDK/build/libraries/bte-stack/src/components/stack/goep/, CMWP_D
+RVL_SDK/build/libraries/bte-stack/src/components/stack/goep/goep_fs.c, CMWP_D
+RVL_SDK/build/libraries/bte-stack/src/components/stack/goep/goep_trace.c, CMWP_D
+RVL_SDK/build/libraries/bte-stack/src/components/stack/goep/goep_util.c, CMWP_D
+RVL_SDK/build/libraries/bte-stack/src/components/stack/hcic/, CMWP_D; TFP2_D_E
+RVL_SDK/build/libraries/bte-stack/src/components/stack/hcic/hcicmds.c, CMWP_D; TFP2_D_E
+RVL_SDK/build/libraries/bte-stack/src/components/stack/hid/, CMWP_D; TFP2_D_E
+RVL_SDK/build/libraries/bte-stack/src/components/stack/hid/hidd_api.c, CMWP_D; TFP2_D_E
+RVL_SDK/build/libraries/bte-stack/src/components/stack/hid/hidd_conn.c, CMWP_D; TFP2_D_E
+RVL_SDK/build/libraries/bte-stack/src/components/stack/hid/hidd_mgmt.c, CMWP_D; TFP2_D_E
+RVL_SDK/build/libraries/bte-stack/src/components/stack/hid/hidd_pm.c, CMWP_D; TFP2_D_E
+RVL_SDK/build/libraries/bte-stack/src/components/stack/hid/hidh_api.c, CMWP_D; TFP2_D_E
+RVL_SDK/build/libraries/bte-stack/src/components/stack/hid/hidh_conn.c, CMWP_D; TFP2_D_E
+RVL_SDK/build/libraries/bte-stack/src/components/stack/l2cap/, CMWP_D; TFP2_D_E
+RVL_SDK/build/libraries/bte-stack/src/components/stack/l2cap/l2c_api.c, CMWP_D; TFP2_D_E
+RVL_SDK/build/libraries/bte-stack/src/components/stack/l2cap/l2c_csm.c, CMWP_D; TFP2_D_E
+RVL_SDK/build/libraries/bte-stack/src/components/stack/l2cap/l2c_link.c, CMWP_D; TFP2_D_E
+RVL_SDK/build/libraries/bte-stack/src/components/stack/l2cap/l2c_main.c, CMWP_D; TFP2_D_E
+RVL_SDK/build/libraries/bte-stack/src/components/stack/l2cap/l2c_utils.c, CMWP_D; TFP2_D_E
+RVL_SDK/build/libraries/bte-stack/src/components/stack/rfcomm/, CMWP_D; TFP2_D_E
+RVL_SDK/build/libraries/bte-stack/src/components/stack/rfcomm/port_api.c, CMWP_D; TFP2_D_E
+RVL_SDK/build/libraries/bte-stack/src/components/stack/rfcomm/port_rfc.c, CMWP_D; TFP2_D_E
+RVL_SDK/build/libraries/bte-stack/src/components/stack/rfcomm/port_utils.c, CMWP_D; TFP2_D_E
+RVL_SDK/build/libraries/bte-stack/src/components/stack/rfcomm/rfc_l2cap_if.c, CMWP_D; TFP2_D_E
+RVL_SDK/build/libraries/bte-stack/src/components/stack/rfcomm/rfc_mx_fsm.c, CMWP_D; TFP2_D_E
+RVL_SDK/build/libraries/bte-stack/src/components/stack/rfcomm/rfc_port_fsm.c, CMWP_D; TFP2_D_E
+RVL_SDK/build/libraries/bte-stack/src/components/stack/rfcomm/rfc_port_if.c, CMWP_D; TFP2_D_E
+RVL_SDK/build/libraries/bte-stack/src/components/stack/rfcomm/rfc_ts_frames.c, CMWP_D; TFP2_D_E
+RVL_SDK/build/libraries/bte-stack/src/components/stack/rfcomm/rfc_utils.c, CMWP_D; TFP2_D_E
+RVL_SDK/build/libraries/bte-stack/src/components/stack/sdp/, CMWP_D; TFP2_D_E
+RVL_SDK/build/libraries/bte-stack/src/components/stack/sdp/sdp_api.c, CMWP_D; TFP2_D_E
+RVL_SDK/build/libraries/bte-stack/src/components/stack/sdp/sdp_db.c, CMWP_D; TFP2_D_E
+RVL_SDK/build/libraries/bte-stack/src/components/stack/sdp/sdp_discovery.c, CMWP_D; TFP2_D_E
+RVL_SDK/build/libraries/bte-stack/src/components/stack/sdp/sdp_main.c, CMWP_D; TFP2_D_E
+RVL_SDK/build/libraries/bte-stack/src/components/stack/sdp/sdp_server.c, CMWP_D; TFP2_D_E
+RVL_SDK/build/libraries/bte-stack/src/components/stack/sdp/sdp_utils.c, CMWP_D; TFP2_D_E
+RVL_SDK/build/libraries/bte-stack/src/components/stack/wbt/, CMWP_D; TFP2_D_E
+RVL_SDK/build/libraries/bte-stack/src/components/stack/wbt/wbt_ext.c, CMWP_D; TFP2_D_E
+RVL_SDK/build/libraries/bte-stack/src/components/stack/xml/, CMWP_D
+RVL_SDK/build/libraries/bte-stack/src/components/stack/xml/xml_bld.c, CMWP_D
+RVL_SDK/build/libraries/bte-stack/src/components/stack/xml/xml_parse.c, CMWP_D
+RVL_SDK/build/libraries/card/, SmaDr
+RVL_SDK/build/libraries/card/src/, SmaDr
+RVL_SDK/build/libraries/card/src/CARDBios.c, SmaDr
+RVL_SDK/build/libraries/card/src/CARDBlock.c, SmaDr
+RVL_SDK/build/libraries/card/src/CARDCheck.c, SmaDr
+RVL_SDK/build/libraries/card/src/CARDCreate.c, SmaDr
+RVL_SDK/build/libraries/card/src/CARDDelete.c, SmaDr
+RVL_SDK/build/libraries/card/src/CARDDir.c, SmaDr
+RVL_SDK/build/libraries/card/src/CARDFormat.c, SmaDr
+RVL_SDK/build/libraries/card/src/CARDMount.c, SmaDr
+RVL_SDK/build/libraries/card/src/CARDOpen.c, SmaDr
+RVL_SDK/build/libraries/card/src/CARDRdwr.c, SmaDr
+RVL_SDK/build/libraries/card/src/CARDRead.c, SmaDr
+RVL_SDK/build/libraries/card/src/CARDStat.c, SmaDr
+RVL_SDK/build/libraries/card/src/CARDUnlock.c, SmaDr
+RVL_SDK/build/libraries/card/src/CARDWrite.c, SmaDr
+RVL_SDK/build/libraries/db/, SmaDr
+RVL_SDK/build/libraries/db/src/, SmaDr
+RVL_SDK/build/libraries/db/src/db.c, SmaDr
+RVL_SDK/build/libraries/dsp/, SmaDr
+RVL_SDK/build/libraries/dsp/src/, SmaDr
+RVL_SDK/build/libraries/dsp/src/dsp.c, SmaDr
+RVL_SDK/build/libraries/dsp/src/dsp_debug.c, SmaDr
+RVL_SDK/build/libraries/dsp/src/dsp_task.c, SmaDr
+RVL_SDK/build/libraries/dvd/, SmaDr
+RVL_SDK/build/libraries/dvd/src/, SmaDr
+RVL_SDK/build/libraries/dvd/src/dvd.c, SmaDr
+RVL_SDK/build/libraries/dvd/src/dvderror.c, SmaDr
+RVL_SDK/build/libraries/dvd/src/dvdfs.c, SmaDr
+RVL_SDK/build/libraries/dvd/src/dvdlow.c, SmaDr
+RVL_SDK/build/libraries/dvd/src/dvdqueue.c, SmaDr
+RVL_SDK/build/libraries/dvd/src/emu_level2/, SmaDr
+RVL_SDK/build/libraries/dvd/src/emu_level2/fstload.c, SmaDr
+RVL_SDK/build/libraries/gx/, SmaDr
+RVL_SDK/build/libraries/gx/src/, SmaDr
+RVL_SDK/build/libraries/gx/src/GXAttr.c, SmaDr
+RVL_SDK/build/libraries/gx/src/GXBump.c, SmaDr
+RVL_SDK/build/libraries/gx/src/GXFifo.c, SmaDr
+RVL_SDK/build/libraries/gx/src/GXFrameBuf.c, SmaDr
+RVL_SDK/build/libraries/gx/src/GXGeometry.c, SmaDr
+RVL_SDK/build/libraries/gx/src/GXInit.c, SmaDr
+RVL_SDK/build/libraries/gx/src/GXLight.c, SmaDr
+RVL_SDK/build/libraries/gx/src/GXMisc.c, SmaDr
+RVL_SDK/build/libraries/gx/src/GXPerf.c, SmaDr
+RVL_SDK/build/libraries/gx/src/GXPixel.c, SmaDr
+RVL_SDK/build/libraries/gx/src/GXStubs.c, SmaDr
+RVL_SDK/build/libraries/gx/src/GXTev.c, SmaDr
+RVL_SDK/build/libraries/gx/src/GXTexture.c, SmaDr
+RVL_SDK/build/libraries/gx/src/GXTransform.c, SmaDr
+RVL_SDK/build/libraries/hbm/, CMWP_D; Gor_D_E; ISSM_D; SdR_D
+RVL_SDK/build/libraries/hbm/include/, CMWP_D; Gor_D_E; ISSM_D; SdR_D
+RVL_SDK/build/libraries/hbm/include/HBMAnmController.h, Gor_D_E; ISSM_D; SdR_D
+RVL_SDK/build/libraries/hbm/include/HBMAxSound.h, Gor_D_E; ISSM_D; SdR_D
+RVL_SDK/build/libraries/hbm/include/HBMBase.inl, Gor_D_E; ISSM_D; SdR_D
+RVL_SDK/build/libraries/hbm/include/HBMBaseLib.h, Gor_D_E; ISSM_D; SdR_D
+RVL_SDK/build/libraries/hbm/include/HBMCommon.h, Gor_D_E; ISSM_D; SdR_D
+RVL_SDK/build/libraries/hbm/include/HBMController.h, Gor_D_E; ISSM_D; SdR_D
+RVL_SDK/build/libraries/hbm/include/HBMFrameController.h, Gor_D_E; ISSM_D; SdR_D
+RVL_SDK/build/libraries/hbm/include/HBMGUIManager.h, Gor_D_E; ISSM_D; SdR_D
+RVL_SDK/build/libraries/hbm/include/HBMRemoteSpk.h, Gor_D_E; ISSM_D; SdR_D
+RVL_SDK/build/libraries/hbm/include/nw4hbm/, CMWP_D; Gor_D_E; ISSM_D; SdR_D
+RVL_SDK/build/libraries/hbm/include/nw4hbm/config/, CMWP_D; Gor_D_E; ISSM_D; SdR_D
+RVL_SDK/build/libraries/hbm/include/nw4hbm/config/compiler/, CMWP_D; Gor_D_E; ISSM_D; SdR_D
+RVL_SDK/build/libraries/hbm/include/nw4hbm/config/compiler/mwerks.h, Gor_D_E; ISSM_D; SdR_D
+RVL_SDK/build/libraries/hbm/include/nw4hbm/config/compiler.h, Gor_D_E; ISSM_D; SdR_D
+RVL_SDK/build/libraries/hbm/include/nw4hbm/config/platform/, CMWP_D; Gor_D_E; SdR_D
+RVL_SDK/build/libraries/hbm/include/nw4hbm/config/platform/rvl.h, Gor_D_E; SdR_D
+RVL_SDK/build/libraries/hbm/include/nw4hbm/config/platform.h, Gor_D_E; SdR_D
+RVL_SDK/build/libraries/hbm/include/nw4hbm/lyt/, CMWP_D; Gor_D_E; ISSM_D; SdR_D
+RVL_SDK/build/libraries/hbm/include/nw4hbm/lyt/animation.h, Gor_D_E; ISSM_D; SdR_D
+RVL_SDK/build/libraries/hbm/include/nw4hbm/lyt/arcResourceAccessor.h, Gor_D_E; ISSM_D; SdR_D
+RVL_SDK/build/libraries/hbm/include/nw4hbm/lyt/bounding.h, Gor_D_E; ISSM_D; SdR_D
+RVL_SDK/build/libraries/hbm/include/nw4hbm/lyt/common.h, Gor_D_E; ISSM_D; SdR_D
+RVL_SDK/build/libraries/hbm/include/nw4hbm/lyt/drawInfo.h, Gor_D_E; ISSM_D; SdR_D
+RVL_SDK/build/libraries/hbm/include/nw4hbm/lyt/group.h, Gor_D_E; ISSM_D; SdR_D
+RVL_SDK/build/libraries/hbm/include/nw4hbm/lyt/init.h, Gor_D_E; ISSM_D; SdR_D
+RVL_SDK/build/libraries/hbm/include/nw4hbm/lyt/layout.h, Gor_D_E; ISSM_D; SdR_D
+RVL_SDK/build/libraries/hbm/include/nw4hbm/lyt/material.h, Gor_D_E; ISSM_D; SdR_D
+RVL_SDK/build/libraries/hbm/include/nw4hbm/lyt/pane.h, Gor_D_E; ISSM_D; SdR_D
+RVL_SDK/build/libraries/hbm/include/nw4hbm/lyt/picture.h, Gor_D_E; ISSM_D; SdR_D
+RVL_SDK/build/libraries/hbm/include/nw4hbm/lyt/resourceAccessor.h, Gor_D_E; ISSM_D; SdR_D
+RVL_SDK/build/libraries/hbm/include/nw4hbm/lyt/resources.h, Gor_D_E; ISSM_D; SdR_D
+RVL_SDK/build/libraries/hbm/include/nw4hbm/lyt/textBox.h, Gor_D_E; ISSM_D; SdR_D
+RVL_SDK/build/libraries/hbm/include/nw4hbm/lyt/types.h, Gor_D_E; ISSM_D; SdR_D
+RVL_SDK/build/libraries/hbm/include/nw4hbm/lyt/window.h, Gor_D_E; ISSM_D; SdR_D
+RVL_SDK/build/libraries/hbm/include/nw4hbm/lyt.h, Gor_D_E; ISSM_D; SdR_D
+RVL_SDK/build/libraries/hbm/include/nw4hbm/math/, CMWP_D; Gor_D_E; ISSM_D; SdR_D
+RVL_SDK/build/libraries/hbm/include/nw4hbm/math/arithmetic.h, Gor_D_E; ISSM_D; SdR_D
+RVL_SDK/build/libraries/hbm/include/nw4hbm/math/config.h, Gor_D_E; ISSM_D; SdR_D
+RVL_SDK/build/libraries/hbm/include/nw4hbm/math/constant.h, Gor_D_E; ISSM_D; SdR_D
+RVL_SDK/build/libraries/hbm/include/nw4hbm/math/equation.h, Gor_D_E; ISSM_D; SdR_D
+RVL_SDK/build/libraries/hbm/include/nw4hbm/math/geometry.h, Gor_D_E; ISSM_D; SdR_D
+RVL_SDK/build/libraries/hbm/include/nw4hbm/math/triangular.h, Gor_D_E; ISSM_D; SdR_D
+RVL_SDK/build/libraries/hbm/include/nw4hbm/math/types.h, Gor_D_E; ISSM_D; SdR_D
+RVL_SDK/build/libraries/hbm/include/nw4hbm/math.h, Gor_D_E; ISSM_D; SdR_D
+RVL_SDK/build/libraries/hbm/include/nw4hbm/misc.h, Gor_D_E; ISSM_D; SdR_D
+RVL_SDK/build/libraries/hbm/include/nw4hbm/ut/, CMWP_D; Gor_D_E; ISSM_D; SdR_D
+RVL_SDK/build/libraries/hbm/include/nw4hbm/ut/binaryFileFormat.h, Gor_D_E; ISSM_D; SdR_D
+RVL_SDK/build/libraries/hbm/include/nw4hbm/ut/CharStrmReader.h, Gor_D_E; ISSM_D; SdR_D
+RVL_SDK/build/libraries/hbm/include/nw4hbm/ut/CharWriter.h, Gor_D_E; ISSM_D; SdR_D
+RVL_SDK/build/libraries/hbm/include/nw4hbm/ut/Color.h, Gor_D_E; ISSM_D; SdR_D
+RVL_SDK/build/libraries/hbm/include/nw4hbm/ut/Font.h, Gor_D_E; ISSM_D; SdR_D
+RVL_SDK/build/libraries/hbm/include/nw4hbm/ut/fontResourceFormat.h, Gor_D_E; ISSM_D; SdR_D
+RVL_SDK/build/libraries/hbm/include/nw4hbm/ut/GPPerf.h, Gor_D_E; ISSM_D; SdR_D
+RVL_SDK/build/libraries/hbm/include/nw4hbm/ut/inlines.h, Gor_D_E; ISSM_D; SdR_D
+RVL_SDK/build/libraries/hbm/include/nw4hbm/ut/LinkList.h, Gor_D_E; ISSM_D; SdR_D
+RVL_SDK/build/libraries/hbm/include/nw4hbm/ut/list.h, Gor_D_E; ISSM_D; SdR_D
+RVL_SDK/build/libraries/hbm/include/nw4hbm/ut/Lock.h, Gor_D_E; ISSM_D; SdR_D
+RVL_SDK/build/libraries/hbm/include/nw4hbm/ut/LockedCache.h, Gor_D_E; ISSM_D; SdR_D
+RVL_SDK/build/libraries/hbm/include/nw4hbm/ut/Rect.h, Gor_D_E; ISSM_D; SdR_D
+RVL_SDK/build/libraries/hbm/include/nw4hbm/ut/ResFont.h, Gor_D_E; ISSM_D; SdR_D
+RVL_SDK/build/libraries/hbm/include/nw4hbm/ut/ResFontBase.h, Gor_D_E; ISSM_D; SdR_D
+RVL_SDK/build/libraries/hbm/include/nw4hbm/ut/RomFont.h, Gor_D_E; ISSM_D; SdR_D
+RVL_SDK/build/libraries/hbm/include/nw4hbm/ut/RuntimeTypeInfo.h, Gor_D_E; ISSM_D; SdR_D
+RVL_SDK/build/libraries/hbm/include/nw4hbm/ut/TagProcessor.h, Gor_D_E; ISSM_D; SdR_D
+RVL_SDK/build/libraries/hbm/include/nw4hbm/ut/TagProcessorBase.h, Gor_D_E; ISSM_D; SdR_D
+RVL_SDK/build/libraries/hbm/include/nw4hbm/ut/TextWriter.h, Gor_D_E; ISSM_D; SdR_D
+RVL_SDK/build/libraries/hbm/include/nw4hbm/ut/TextWriterBase.h, Gor_D_E; ISSM_D; SdR_D
+RVL_SDK/build/libraries/hbm/include/nw4hbm/ut/WideTagProcessor.h, Gor_D_E; ISSM_D; SdR_D
+RVL_SDK/build/libraries/hbm/include/nw4hbm/ut/WideTextWriter.h, Gor_D_E; ISSM_D; SdR_D
+RVL_SDK/build/libraries/hbm/include/nw4hbm/ut.h, Gor_D_E; ISSM_D; SdR_D
+RVL_SDK/build/libraries/hbm/include/sound/, CMWP_D; Gor_D_E; ISSM_D; SdR_D
+RVL_SDK/build/libraries/hbm/include/sound/mix.h, Gor_D_E; ISSM_D; SdR_D
+RVL_SDK/build/libraries/hbm/include/sound/seq.h, Gor_D_E; ISSM_D; SdR_D
+RVL_SDK/build/libraries/hbm/include/sound/syn.h, Gor_D_E; ISSM_D; SdR_D
+RVL_SDK/build/libraries/hbm/include/sound/synprivate.h, Gor_D_E; ISSM_D; SdR_D
+RVL_SDK/build/libraries/hbm/include/WPADPrivate.h, Gor_D_E; ISSM_D
+RVL_SDK/build/libraries/hbm/src/, CMWP_D; Gor_D_E; ISSM_D; SdR_D
+RVL_SDK/build/libraries/hbm/src/HBMAnmController.cpp, CMWP_D; Gor_D_E; ISSM_D; SdR_D
+RVL_SDK/build/libraries/hbm/src/HBMAxSound.cpp, CMWP_D; Gor_D_E; ISSM_D; SdR_D
+RVL_SDK/build/libraries/hbm/src/HBMBase.cpp, CMWP_D; Gor_D_E; ISSM_D; SdR_D
+RVL_SDK/build/libraries/hbm/src/HBMCommon.cpp, CMWP_D; Gor_D_E; ISSM_D; SdR_D
+RVL_SDK/build/libraries/hbm/src/HBMController.cpp, CMWP_D; Gor_D_E; ISSM_D; SdR_D
+RVL_SDK/build/libraries/hbm/src/HBMFrameController.cpp, CMWP_D; Gor_D_E; ISSM_D; SdR_D
+RVL_SDK/build/libraries/hbm/src/HBMGUIManager.cpp, CMWP_D; Gor_D_E; ISSM_D; SdR_D
+RVL_SDK/build/libraries/hbm/src/HBMRemoteSpk.cpp, CMWP_D; Gor_D_E; ISSM_D; SdR_D
+RVL_SDK/build/libraries/hbm/src/nw4hbm/, CMWP_D; Gor_D_E; ISSM_D; SdR_D
+RVL_SDK/build/libraries/hbm/src/nw4hbm/lyt_animation.cpp, CMWP_D; Gor_D_E; ISSM_D; SdR_D
+RVL_SDK/build/libraries/hbm/src/nw4hbm/lyt_arcResourceAccessor.cpp, CMWP_D; Gor_D_E; ISSM_D; SdR_D
+RVL_SDK/build/libraries/hbm/src/nw4hbm/lyt_bounding.cpp, CMWP_D; Gor_D_E; ISSM_D; SdR_D
+RVL_SDK/build/libraries/hbm/src/nw4hbm/lyt_common.cpp, CMWP_D; Gor_D_E; ISSM_D; SdR_D
+RVL_SDK/build/libraries/hbm/src/nw4hbm/lyt_drawInfo.cpp, CMWP_D; Gor_D_E; ISSM_D; SdR_D
+RVL_SDK/build/libraries/hbm/src/nw4hbm/lyt_group.cpp, CMWP_D; Gor_D_E; ISSM_D; SdR_D
+RVL_SDK/build/libraries/hbm/src/nw4hbm/lyt_init.cpp, CMWP_D
+RVL_SDK/build/libraries/hbm/src/nw4hbm/lyt_layout.cpp, CMWP_D; Gor_D_E; ISSM_D; SdR_D
+RVL_SDK/build/libraries/hbm/src/nw4hbm/lyt_material.cpp, CMWP_D; Gor_D_E; ISSM_D; SdR_D
+RVL_SDK/build/libraries/hbm/src/nw4hbm/lyt_pane.cpp, CMWP_D; Gor_D_E; ISSM_D; SdR_D
+RVL_SDK/build/libraries/hbm/src/nw4hbm/lyt_picture.cpp, CMWP_D; Gor_D_E; ISSM_D; SdR_D
+RVL_SDK/build/libraries/hbm/src/nw4hbm/lyt_resourceAccessor.cpp, CMWP_D; Gor_D_E; ISSM_D; SdR_D
+RVL_SDK/build/libraries/hbm/src/nw4hbm/lyt_textBox.cpp, CMWP_D; Gor_D_E; ISSM_D; SdR_D
+RVL_SDK/build/libraries/hbm/src/nw4hbm/lyt_window.cpp, CMWP_D; Gor_D_E; ISSM_D; SdR_D
+RVL_SDK/build/libraries/hbm/src/nw4hbm/math_arithmetic.cpp, CMWP_D; Gor_D_E; ISSM_D; SdR_D
+RVL_SDK/build/libraries/hbm/src/nw4hbm/math_equation.cpp, CMWP_D; Gor_D_E; ISSM_D; SdR_D
+RVL_SDK/build/libraries/hbm/src/nw4hbm/math_geometry.cpp, CMWP_D
+RVL_SDK/build/libraries/hbm/src/nw4hbm/math_triangular.cpp, CMWP_D; Gor_D_E; ISSM_D; SdR_D
+RVL_SDK/build/libraries/hbm/src/nw4hbm/math_types.cpp, CMWP_D
+RVL_SDK/build/libraries/hbm/src/nw4hbm/ut_binaryFileFormat.cpp, CMWP_D; Gor_D_E; ISSM_D; SdR_D
+RVL_SDK/build/libraries/hbm/src/nw4hbm/ut_CharStrmReader.cpp, CMWP_D; Gor_D_E; ISSM_D; SdR_D
+RVL_SDK/build/libraries/hbm/src/nw4hbm/ut_CharWriter.cpp, CMWP_D; Gor_D_E; ISSM_D; SdR_D
+RVL_SDK/build/libraries/hbm/src/nw4hbm/ut_Font.cpp, CMWP_D; Gor_D_E; ISSM_D; SdR_D
+RVL_SDK/build/libraries/hbm/src/nw4hbm/ut_LinkList.cpp, CMWP_D; Gor_D_E; ISSM_D; SdR_D
+RVL_SDK/build/libraries/hbm/src/nw4hbm/ut_list.cpp, CMWP_D; Gor_D_E; ISSM_D; SdR_D
+RVL_SDK/build/libraries/hbm/src/nw4hbm/ut_ResFont.cpp, CMWP_D; Gor_D_E; ISSM_D; SdR_D
+RVL_SDK/build/libraries/hbm/src/nw4hbm/ut_ResFontBase.cpp, CMWP_D; Gor_D_E; ISSM_D; SdR_D
+RVL_SDK/build/libraries/hbm/src/nw4hbm/ut_RomFont.cpp, CMWP_D
+RVL_SDK/build/libraries/hbm/src/nw4hbm/ut_TagProcessorBase.cpp, CMWP_D; Gor_D_E; ISSM_D; SdR_D
+RVL_SDK/build/libraries/hbm/src/nw4hbm/ut_TextWriterBase.cpp, CMWP_D; Gor_D_E; ISSM_D; SdR_D
+RVL_SDK/build/libraries/hbm/src/sound/, CMWP_D; Gor_D_E; ISSM_D; SdR_D
+RVL_SDK/build/libraries/hbm/src/sound/mix.cpp, CMWP_D; Gor_D_E; ISSM_D; SdR_D
+RVL_SDK/build/libraries/hbm/src/sound/seq.cpp, CMWP_D; Gor_D_E; ISSM_D; SdR_D
+RVL_SDK/build/libraries/hbm/src/sound/syn.cpp, CMWP_D; Gor_D_E; ISSM_D; SdR_D
+RVL_SDK/build/libraries/hbm/src/sound/synctrl.cpp, CMWP_D; Gor_D_E; ISSM_D; SdR_D
+RVL_SDK/build/libraries/hbm/src/sound/synenv.cpp, CMWP_D; Gor_D_E; ISSM_D; SdR_D
+RVL_SDK/build/libraries/hbm/src/sound/synmix.cpp, CMWP_D; Gor_D_E; ISSM_D; SdR_D
+RVL_SDK/build/libraries/hbm/src/sound/synpitch.cpp, CMWP_D; Gor_D_E; ISSM_D; SdR_D
+RVL_SDK/build/libraries/hbm/src/sound/synsample.cpp, CMWP_D; Gor_D_E; ISSM_D; SdR_D
+RVL_SDK/build/libraries/hbm/src/sound/synvoice.cpp, CMWP_D; Gor_D_E; ISSM_D; SdR_D
+RVL_SDK/build/libraries/kpad/, SdR_D
+RVL_SDK/build/libraries/kpad/include/, SdR_D
+RVL_SDK/build/libraries/kpad/include/KPADinside.h, SdR_D
+RVL_SDK/build/libraries/kpad/src/, SdR_D
+RVL_SDK/build/libraries/kpad/src/KPAD.c, SdR_D
+RVL_SDK/build/libraries/mix/, SdR_D
+RVL_SDK/build/libraries/mix/include/, SdR_D
+RVL_SDK/build/libraries/mix/include/mixprivate.h, SdR_D
+RVL_SDK/build/libraries/mix/src/, SdR_D
+RVL_SDK/build/libraries/mix/src/mix.c, SdR_D
+RVL_SDK/build/libraries/mix/src/remote.c, SdR_D
+RVL_SDK/build/libraries/mtx/, SdR_D
+RVL_SDK/build/libraries/mtx/include/, SdR_D
+RVL_SDK/build/libraries/mtx/include/mtx44extAssert.h, SdR_D
+RVL_SDK/build/libraries/mtx/include/mtxAssert.h, SdR_D
+RVL_SDK/build/libraries/mtx/src/, SdR_D; SmaDr
+RVL_SDK/build/libraries/mtx/src/mtx.c, SdR_D; SmaDr
+RVL_SDK/build/libraries/mtx/src/mtx44.c, SdR_D; SmaDr
+RVL_SDK/build/libraries/mtx/src/mtxvec.c, SdR_D
+RVL_SDK/build/libraries/mtx/src/vec.c, SdR_D; SmaDr
+RVL_SDK/build/libraries/os/, SmaDr
+RVL_SDK/build/libraries/os/src/, SmaDr
+RVL_SDK/build/libraries/os/src/init/, SmaDr
+RVL_SDK/build/libraries/os/src/init/__ppc_eabi_init.cpp, SmaDr
+RVL_SDK/build/libraries/os/src/OS.c, SmaDr
+RVL_SDK/build/libraries/os/src/OSAlarm.c, SmaDr
+RVL_SDK/build/libraries/os/src/OSAlloc.c, SmaDr
+RVL_SDK/build/libraries/os/src/OSArena.c, SmaDr
+RVL_SDK/build/libraries/os/src/OSAudioSystem.c, SmaDr
+RVL_SDK/build/libraries/os/src/OSCache.c, SmaDr
+RVL_SDK/build/libraries/os/src/OSContext.c, SmaDr
+RVL_SDK/build/libraries/os/src/OSError.c, SmaDr
+RVL_SDK/build/libraries/os/src/OSExi.c, SmaDr
+RVL_SDK/build/libraries/os/src/OSFont.c, SmaDr
+RVL_SDK/build/libraries/os/src/OSInterrupt.c, SmaDr
+RVL_SDK/build/libraries/os/src/OSLink.c, SmaDr
+RVL_SDK/build/libraries/os/src/OSMemory.c, SmaDr
+RVL_SDK/build/libraries/os/src/OSMutex.c, SmaDr
+RVL_SDK/build/libraries/os/src/OSReboot.c, SmaDr
+RVL_SDK/build/libraries/os/src/OSReset.c, SmaDr
+RVL_SDK/build/libraries/os/src/OSResetSW.c, SmaDr
+RVL_SDK/build/libraries/os/src/OSRtc.c, SmaDr
+RVL_SDK/build/libraries/os/src/OSSerial.c, SmaDr
+RVL_SDK/build/libraries/os/src/OSSync.c, SmaDr
+RVL_SDK/build/libraries/os/src/OSThread.c, SmaDr
+RVL_SDK/build/libraries/os/src/OSTime.c, SmaDr
+RVL_SDK/build/libraries/os/src/OSUartExi.c, SmaDr
+RVL_SDK/build/libraries/pad/, SmaDr
+RVL_SDK/build/libraries/pad/src/, SmaDr
+RVL_SDK/build/libraries/pad/src/Pad.c, SmaDr
+RVL_SDK/build/libraries/vi/, SmaDr
+RVL_SDK/build/libraries/vi/src/, SmaDr
+RVL_SDK/build/libraries/vi/src/vi.c, SmaDr
+RVL_SDK/build/libraries/wenc/, TFP2_D_E
+RVL_SDK/build/libraries/wenc/src/, TFP2_D_E
+RVL_SDK/build/libraries/wenc/src/wenc.c, TFP2_D_E
+RVL_SDK/include/, CMWP_D; Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D; TFP2_D_E
+RVL_SDK/include/demo/, CMWP_D; Gor_D_E; JD4; TFP2_D_D
+RVL_SDK/include/demo/DEMOPad.h, Gor_D_E; JD4; TFP2_D_D
+RVL_SDK/include/demo/DEMOPuts.h, Gor_D_E; JD4; TFP2_D_D
+RVL_SDK/include/demo.h, Gor_D_E; JD4; TFP2_D_D
+RVL_SDK/include/dolphin/, CMWP_D; Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D
+RVL_SDK/include/dolphin/ax.h, JD4
+RVL_SDK/include/dolphin/base/, ISSM_D; TFP2_D_D
+RVL_SDK/include/dolphin/base/PPCArch.h, ISSM_D; TFP2_D_D
+RVL_SDK/include/dolphin/dvd.h, Gor_D_E
+RVL_SDK/include/dolphin/gd.h, TFP2_D_D
+RVL_SDK/include/dolphin/gx/, CMWP_D; Gor_D_E; ISSM_D; TFP2_D_D
+RVL_SDK/include/dolphin/gx/GXEnum.h, Gor_D_E; ISSM_D; TFP2_D_D
+RVL_SDK/include/dolphin/gx/GXStruct.h, Gor_D_E; ISSM_D; TFP2_D_D
+RVL_SDK/include/dolphin/gx.h, Gor_D_E; ISSM_D; TFP2_D_D
+RVL_SDK/include/dolphin/mix.h, JD4
+RVL_SDK/include/dolphin/mtx/, JD4
+RVL_SDK/include/dolphin/mtx/GeoTypes.h, JD4
+RVL_SDK/include/dolphin/mtx.h, Gor_D_E; ISSM_D; SdR_D; TFP2_D_D
+RVL_SDK/include/dolphin/os/, ISSM_D
+RVL_SDK/include/dolphin/os/OSMemory.h, ISSM_D
+RVL_SDK/include/dolphin/os.h, Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D
+RVL_SDK/include/dolphin/types.h, Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D
+RVL_SDK/include/dolphin/vi.h, TFP2_D_D
+RVL_SDK/include/dolphin.h, Gor_D_E; ISSM_D; SdR_D; TFP2_D_D
+RVL_SDK/include/private/, CMWP_D
+RVL_SDK/include/revolution/, CMWP_D; Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D; TFP2_D_E
+RVL_SDK/include/revolution/ai.h, Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D
+RVL_SDK/include/revolution/arc.h, Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D
+RVL_SDK/include/revolution/ax.h, Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D
+RVL_SDK/include/revolution/axart.h, ISSM_D
+RVL_SDK/include/revolution/axfx.h, Gor_D_E; ISSM_D; SdR_D; TFP2_D_D
+RVL_SDK/include/revolution/axfx_presets.h, ISSM_D
+RVL_SDK/include/revolution/base/, CMWP_D; Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D
+RVL_SDK/include/revolution/base/PPCArch.h, Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D
+RVL_SDK/include/revolution/base/PPCWGPipe.h, Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D
+RVL_SDK/include/revolution/cnt.h, JD4
+RVL_SDK/include/revolution/cntsd.h, JD4
+RVL_SDK/include/revolution/cx/, ISSM_D; TFP2_D_D
+RVL_SDK/include/revolution/cx/CXCompression.h, ISSM_D; TFP2_D_D
+RVL_SDK/include/revolution/cx/CXSecureUncompression.h, ISSM_D; TFP2_D_D
+RVL_SDK/include/revolution/cx/CXStreamingUncompression.h, ISSM_D; TFP2_D_D
+RVL_SDK/include/revolution/cx/CXUncompression.h, ISSM_D; TFP2_D_D
+RVL_SDK/include/revolution/cx.h, ISSM_D; TFP2_D_D
+RVL_SDK/include/revolution/db/, SdR_D; TFP2_D_D
+RVL_SDK/include/revolution/db/DBInterface.h, SdR_D; TFP2_D_D
+RVL_SDK/include/revolution/db.h, SdR_D; TFP2_D_D
+RVL_SDK/include/revolution/dsp.h, Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D
+RVL_SDK/include/revolution/dvd.h, Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D
+RVL_SDK/include/revolution/enc.h, JD4; TFP2_D_D
+RVL_SDK/include/revolution/gd/, ISSM_D; SdR_D; TFP2_D_D
+RVL_SDK/include/revolution/gd/GDBase.h, ISSM_D; SdR_D; TFP2_D_D
+RVL_SDK/include/revolution/gd/GDFile.h, ISSM_D; SdR_D; TFP2_D_D
+RVL_SDK/include/revolution/gd/GDGeometry.h, ISSM_D; SdR_D; TFP2_D_D
+RVL_SDK/include/revolution/gd/GDIndirect.h, ISSM_D; SdR_D; TFP2_D_D
+RVL_SDK/include/revolution/gd/GDLight.h, ISSM_D; SdR_D; TFP2_D_D
+RVL_SDK/include/revolution/gd/GDPixel.h, ISSM_D; SdR_D; TFP2_D_D
+RVL_SDK/include/revolution/gd/GDTev.h, ISSM_D; SdR_D; TFP2_D_D
+RVL_SDK/include/revolution/gd/GDTexture.h, ISSM_D; SdR_D; TFP2_D_D
+RVL_SDK/include/revolution/gd/GDTransform.h, ISSM_D; SdR_D; TFP2_D_D
+RVL_SDK/include/revolution/gd/GDVert.h, ISSM_D; SdR_D; TFP2_D_D
+RVL_SDK/include/revolution/gd.h, ISSM_D; SdR_D; TFP2_D_D
+RVL_SDK/include/revolution/gx/, CMWP_D; Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D; TFP2_D_E
+RVL_SDK/include/revolution/gx/GXBump.h, Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D
+RVL_SDK/include/revolution/gx/GXCommandList.h, Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D
+RVL_SDK/include/revolution/gx/GXCpu2Efb.h, Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D
+RVL_SDK/include/revolution/gx/GXCull.h, Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D
+RVL_SDK/include/revolution/gx/GXDispList.h, Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D; TFP2_D_E
+RVL_SDK/include/revolution/gx/GXDraw.h, Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D
+RVL_SDK/include/revolution/gx/GXEnum.h, Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D
+RVL_SDK/include/revolution/gx/GXFifo.h, Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D
+RVL_SDK/include/revolution/gx/GXFrameBuffer.h, Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D
+RVL_SDK/include/revolution/gx/GXGeometry.h, Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D; TFP2_D_E
+RVL_SDK/include/revolution/gx/GXGet.h, Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D
+RVL_SDK/include/revolution/gx/GXLighting.h, Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D
+RVL_SDK/include/revolution/gx/GXManage.h, Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D
+RVL_SDK/include/revolution/gx/GXPerf.h, Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D
+RVL_SDK/include/revolution/gx/GXPixel.h, Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D
+RVL_SDK/include/revolution/gx/GXStruct.h, Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D
+RVL_SDK/include/revolution/gx/GXTev.h, Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D
+RVL_SDK/include/revolution/gx/GXTexture.h, Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D
+RVL_SDK/include/revolution/gx/GXTransform.h, Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D; TFP2_D_E
+RVL_SDK/include/revolution/gx/GXVerify.h, Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D
+RVL_SDK/include/revolution/gx/GXVert.h, Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D
+RVL_SDK/include/revolution/gx.h, Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D
+RVL_SDK/include/revolution/hbm/, CMWP_D; Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D
+RVL_SDK/include/revolution/hbm/HBMBase.h, Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D
+RVL_SDK/include/revolution/hbm.h, Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D
+RVL_SDK/include/revolution/hid.h, ISSM_D
+RVL_SDK/include/revolution/hio2.h, Gor_D_E; ISSM_D; JD4; TFP2_D_D
+RVL_SDK/include/revolution/kbd/, ISSM_D
+RVL_SDK/include/revolution/kbd/kbd_hid_codes.h, ISSM_D
+RVL_SDK/include/revolution/kbd/kbd_key_defs.h, ISSM_D
+RVL_SDK/include/revolution/kbd.h, ISSM_D
+RVL_SDK/include/revolution/keyboard/, ISSM_D
+RVL_SDK/include/revolution/keyboard/MyTiInputForm.h, ISSM_D
+RVL_SDK/include/revolution/keyboard/MyTiLetterForm.h, ISSM_D
+RVL_SDK/include/revolution/keyboard/MyTiManagerForm.h, ISSM_D
+RVL_SDK/include/revolution/keyboard/tiAtokString.h, ISSM_D
+RVL_SDK/include/revolution/keyboard/tiCandidateBox.h, ISSM_D
+RVL_SDK/include/revolution/keyboard/tiCellPhone.h, ISSM_D
+RVL_SDK/include/revolution/keyboard/tiConvertJPN.h, ISSM_D
+RVL_SDK/include/revolution/keyboard/tiDebug.h, ISSM_D
+RVL_SDK/include/revolution/keyboard/tiGUIManager.h, ISSM_D
+RVL_SDK/include/revolution/keyboard/tiHKBManager.h, ISSM_D
+RVL_SDK/include/revolution/keyboard/tiHwKeyboard.h, ISSM_D
+RVL_SDK/include/revolution/keyboard/tiInputForm.h, ISSM_D
+RVL_SDK/include/revolution/keyboard/tiKeyboard.h, ISSM_D
+RVL_SDK/include/revolution/keyboard/tiLanguageIndependentData.h, ISSM_D
+RVL_SDK/include/revolution/keyboard/tiLayout.h, ISSM_D
+RVL_SDK/include/revolution/keyboard/tiLayoutGather.h, ISSM_D
+RVL_SDK/include/revolution/keyboard/tiManager.h, ISSM_D
+RVL_SDK/include/revolution/keyboard/tiNw4rManager.h, ISSM_D
+RVL_SDK/include/revolution/keyboard/tiPcKeyboard.h, ISSM_D
+RVL_SDK/include/revolution/keyboard/tiPredictLang.h, ISSM_D
+RVL_SDK/include/revolution/keyboard/tiSaveData.h, ISSM_D
+RVL_SDK/include/revolution/keyboard/tiString.h, ISSM_D
+RVL_SDK/include/revolution/keyboard/tiTextDrawer.h, ISSM_D
+RVL_SDK/include/revolution/keyboard/tiTextInput.h, ISSM_D
+RVL_SDK/include/revolution/keyboard/tiTextInputBase.h, ISSM_D
+RVL_SDK/include/revolution/keyboard/tiToolBar.h, ISSM_D
+RVL_SDK/include/revolution/keyboard/tiUtil.h, ISSM_D
+RVL_SDK/include/revolution/keyboard/tiVersion.h, ISSM_D
+RVL_SDK/include/revolution/keyboard/tiZiString.h, ISSM_D
+RVL_SDK/include/revolution/kpad.h, Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D
+RVL_SDK/include/revolution/kpr.h, ISSM_D
+RVL_SDK/include/revolution/mem/, CMWP_D; Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D; TFP2_D_E
+RVL_SDK/include/revolution/mem/allocator.h, Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D
+RVL_SDK/include/revolution/mem/expHeap.h, Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D; TFP2_D_E
+RVL_SDK/include/revolution/mem/frameHeap.h, Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D; TFP2_D_E
+RVL_SDK/include/revolution/mem/heapCommon.h, Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D; TFP2_D_E
+RVL_SDK/include/revolution/mem/list.h, Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D
+RVL_SDK/include/revolution/mem/unitHeap.h, Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D
+RVL_SDK/include/revolution/mem.h, Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D
+RVL_SDK/include/revolution/mix.h, Gor_D_E; ISSM_D; JD4; SdR_D
+RVL_SDK/include/revolution/mtx/, CMWP_D; Gor_D_E; ISSM_D; SdR_D; TFP2_D_D
+RVL_SDK/include/revolution/mtx/GeoTypes.h, Gor_D_E; ISSM_D; SdR_D; TFP2_D_D
+RVL_SDK/include/revolution/mtx/mtx44ext.h, ISSM_D; SdR_D; TFP2_D_D
+RVL_SDK/include/revolution/mtx.h, Gor_D_E; ISSM_D; SdR_D; TFP2_D_D
+RVL_SDK/include/revolution/nand.h, Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D
+RVL_SDK/include/revolution/os/, CMWP_D; Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D; TFP2_D_E
+RVL_SDK/include/revolution/os/OSAlarm.h, Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D
+RVL_SDK/include/revolution/os/OSAlloc.h, Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D
+RVL_SDK/include/revolution/os/OSCache.h, Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D
+RVL_SDK/include/revolution/os/OSContext.h, Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D
+RVL_SDK/include/revolution/os/OSCrc.h, Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D
+RVL_SDK/include/revolution/os/OSDC.h, Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D
+RVL_SDK/include/revolution/os/OSError.h, Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D
+RVL_SDK/include/revolution/os/OSException.h, Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D
+RVL_SDK/include/revolution/os/OSExpansion.h, Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D
+RVL_SDK/include/revolution/os/OSFastCast.h, Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D; TFP2_D_E
+RVL_SDK/include/revolution/os/OSFont.h, Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D
+RVL_SDK/include/revolution/os/OSIC.h, Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D
+RVL_SDK/include/revolution/os/OSInterrupt.h, Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D
+RVL_SDK/include/revolution/os/OSL2.h, Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D
+RVL_SDK/include/revolution/os/OSLC.h, Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D
+RVL_SDK/include/revolution/os/OSMemory.h, Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D
+RVL_SDK/include/revolution/os/OSMessage.h, Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D
+RVL_SDK/include/revolution/os/OSModule.h, Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D
+RVL_SDK/include/revolution/os/OSMutex.h, Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D
+RVL_SDK/include/revolution/os/OSReset.h, Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D
+RVL_SDK/include/revolution/os/OSResetSW.h, Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D
+RVL_SDK/include/revolution/os/OSSemaphore.h, Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D
+RVL_SDK/include/revolution/os/OSSerial.h, Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D
+RVL_SDK/include/revolution/os/OSThread.h, Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D
+RVL_SDK/include/revolution/os.h, Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D
+RVL_SDK/include/revolution/pad.h, Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D
+RVL_SDK/include/revolution/revodefs.h, JD4; SdR_D; TFP2_D_D
+RVL_SDK/include/revolution/sc/, CMWP_D; Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D
+RVL_SDK/include/revolution/sc/SCRegIdHi.h, Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D
+RVL_SDK/include/revolution/sc.h, Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D
+RVL_SDK/include/revolution/sdkver.h, Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D
+RVL_SDK/include/revolution/seq.h, Gor_D_E; ISSM_D
+RVL_SDK/include/revolution/sp.h, Gor_D_E; ISSM_D
+RVL_SDK/include/revolution/syn.h, Gor_D_E; ISSM_D
+RVL_SDK/include/revolution/thp.h, Gor_D_E; ISSM_D; SdR_D; TFP2_D_D
+RVL_SDK/include/revolution/thpfile.h, Gor_D_E; ISSM_D; SdR_D; TFP2_D_D
+RVL_SDK/include/revolution/tpl.h, Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D
+RVL_SDK/include/revolution/types.h, Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D
+RVL_SDK/include/revolution/vi/, CMWP_D; Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D
+RVL_SDK/include/revolution/vi/vi3in1.h, Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D
+RVL_SDK/include/revolution/vi/vi3in1types.h, Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D
+RVL_SDK/include/revolution/vi/vifuncs.h, Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D
+RVL_SDK/include/revolution/vi/vitypes.h, Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D
+RVL_SDK/include/revolution/vi.h, Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D
+RVL_SDK/include/revolution/wbc.h, Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D
+RVL_SDK/include/revolution/wenc.h, Gor_D_E; ISSM_D; JD4; TFP2_D_D
+RVL_SDK/include/revolution/wiiprofiler.h, SdR_D
+RVL_SDK/include/revolution/wiiprofilernames.h, SdR_D
+RVL_SDK/include/revolution/wpad.h, Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D
+RVL_SDK/include/revolution/wpadBalance.h, Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D
+RVL_SDK/include/revolution/wpadBulk.h, Gor_D_E; ISSM_D; JD4
+RVL_SDK/include/revolution/wpadDrum.h, Gor_D_E; ISSM_D; JD4
+RVL_SDK/include/revolution/wpadGuitar.h, Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D
+RVL_SDK/include/revolution/wpadTaiko.h, Gor_D_E; ISSM_D; JD4
+RVL_SDK/include/revolution/wpadTrain.h, Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D
+RVL_SDK/include/revolution/wt.h, Gor_D_E; ISSM_D; SdR_D
+RVL_SDK/include/revolution.h, Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D

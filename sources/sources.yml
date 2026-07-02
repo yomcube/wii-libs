@@ -1,0 +1,68 @@
+
+- abbr: CMWP_D
+  gameName: "Challenge Me: Word Puzzles"
+  shortName: Challenge Me
+  gameID: SC5PGN
+  file: build/libs/Debug/slamWiiD.a
+
+- abbr: SdR_D
+  gameName: Schlag den Raab
+  gameID: SSDDRV
+  file: Bin/Debug/SdRGameD.elf
+
+- abbr: ISSM_D
+  gameName: I Spy - Spooky Mansion
+  shortName: I Spy
+  gameID: SPQE7T
+  file: ISpyD.elf
+
+- abbr: Gor_D_E
+  gameName: "Gormiti: The Lords of Nature!"
+  shortName: Gormiti ELF
+  gameID: SGLEA4
+  file: Exe/GormitiDebug.elf
+
+- abbr: Gor_D_M
+  file: Exe/Map/GormitiDebug.MAP
+  gameName: "Gormiti: The Lords of Nature!"
+  shortName: Gormiti map
+  gameID: SGLEA4
+
+- abbr: TFP2_D_E
+  gameName: "Tokyo Friend Park II Ketteiban: Minna de Chousen! Taikan Attraction!"
+  shortName: TFP2 ELF
+  gameID: R89JEL
+  file: bin/RVL/Debug/mainD.elf
+
+- abbr: TFP2_D_D
+  gameName: "Tokyo Friend Park II Ketteiban: Minna de Chousen! Taikan Attraction!"
+  shortName: TFP2 depend
+  gameID: R89JEL
+  file: depend/RVL/Debug/*.d
+
+- abbr: KDCSE_M
+  gameName: "Kirby's Dream Collection: Special Edition"
+  shortName: Kirby's Dream Collection
+  gameID: S72E01
+  file: donut.MAP
+
+- abbr: JD4
+  gameName: Just Dance 4
+  gameID: SJXE41
+  file: LynWiiRetail.elf
+
+- abbr: BBA_D
+  gameName: "Big Brain Academy: Wii Degree"
+  shortName: "BBA:WD"
+  gameID: RYWE01
+  file: map/RevoYawarakaD.MAP
+
+- abbr: SmaDr
+  gameName: Smashing Drive
+  gameID: GSDEAF
+  file: smash.elf
+
+- abbr: WFU
+  gameName: Wii Fit U
+  gameID: ASTE01
+  file: Step.rpx

@@ -1,0 +1,41 @@
+RevoEX/, CMWP_D; JD4; TFP2_D_D; TFP2_D_E
+RevoEX/build/, TFP2_D_E
+RevoEX/build/api/, TFP2_D_E
+RevoEX/build/api/src/, TFP2_D_E
+RevoEX/build/api/src/ssl_api.c, TFP2_D_E
+RevoEX/build/api/src/ssl_mutex.c, TFP2_D_E
+RevoEX/build/api/src/ssl_print.c, TFP2_D_E
+RevoEX/build/rso/, CMWP_D
+RevoEX/build/rso/src/, CMWP_D
+RevoEX/build/rso/src/RSOLink.c, CMWP_D
+RevoEX/include/, CMWP_D; JD4; TFP2_D_D
+RevoEX/include/revolution/, JD4; TFP2_D_D
+RevoEX/include/revolution/ec/, JD4
+RevoEX/include/revolution/ec/ecbase.h, JD4
+RevoEX/include/revolution/ec/ecestypes.h, JD4
+RevoEX/include/revolution/ec.h, JD4
+RevoEX/include/revolution/mp.h, JD4
+RevoEX/include/revolution/mpdl.h, JD4
+RevoEX/include/revolution/ncd/, JD4; TFP2_D_D
+RevoEX/include/revolution/ncd/NCDConst.h, JD4; TFP2_D_D
+RevoEX/include/revolution/ncd/NCDMisc.h, JD4; TFP2_D_D
+RevoEX/include/revolution/ncd/NCDTypes.h, JD4; TFP2_D_D
+RevoEX/include/revolution/ncd.h, JD4; TFP2_D_D
+RevoEX/include/revolution/net/, JD4; TFP2_D_D
+RevoEX/include/revolution/net/NETCrypto.h, JD4; TFP2_D_D
+RevoEX/include/revolution/net/NETDigest.h, JD4; TFP2_D_D
+RevoEX/include/revolution/net/NETErrorCode.h, JD4; TFP2_D_D
+RevoEX/include/revolution/net/NETMisc.h, JD4; TFP2_D_D
+RevoEX/include/revolution/net.h, JD4; TFP2_D_D
+RevoEX/include/revolution/nwc24/, JD4; TFP2_D_D
+RevoEX/include/revolution/nwc24/NWC24Dl.h, JD4; TFP2_D_D
+RevoEX/include/revolution/nwc24/NWC24Err.h, JD4; TFP2_D_D
+RevoEX/include/revolution/nwc24/NWC24FriendList.h, JD4; TFP2_D_D
+RevoEX/include/revolution/nwc24/NWC24Msg.h, JD4; TFP2_D_D
+RevoEX/include/revolution/nwc24/NWC24MsgBoard.h, JD4; TFP2_D_D
+RevoEX/include/revolution/nwc24/NWC24Schedule.h, JD4; TFP2_D_D
+RevoEX/include/revolution/nwc24/NWC24Types.h, JD4; TFP2_D_D
+RevoEX/include/revolution/nwc24.h, JD4; TFP2_D_D
+RevoEX/include/revolution/so.h, JD4; TFP2_D_D
+RevoEX/include/revolution/vf.h, JD4; TFP2_D_D
+RevoEX/include/rex.h, JD4

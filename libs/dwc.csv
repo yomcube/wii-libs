@@ -1,0 +1,173 @@
+environment/, TFP2_D_E
+environment/RevoEX/, TFP2_D_E
+environment/RevoEX/include/, TFP2_D_E
+environment/RevoEX/include/revolution/, TFP2_D_E
+environment/RevoEX/include/revolution/net/, TFP2_D_E
+environment/RevoEX/include/revolution/net/NETDigest.h, TFP2_D_E
+RVLDWC/, TFP2_D_D; TFP2_D_E
+RVLDWC/build/, TFP2_D_E
+RVLDWC/build/add-ins/, TFP2_D_E
+RVLDWC/build/add-ins/gamespy/, TFP2_D_E
+RVLDWC/build/add-ins/gamespy/common/, TFP2_D_E
+RVLDWC/build/add-ins/gamespy/common/gsAssert.c, TFP2_D_E
+RVLDWC/build/add-ins/gamespy/common/gsAvailable.c, TFP2_D_E
+RVLDWC/build/add-ins/gamespy/common/gsLargeInt.c, TFP2_D_E
+RVLDWC/build/add-ins/gamespy/common/gsMemory.c, TFP2_D_E
+RVLDWC/build/add-ins/gamespy/common/gsPlatformSocket.c, TFP2_D_E
+RVLDWC/build/add-ins/gamespy/common/gsPlatformUtil.c, TFP2_D_E
+RVLDWC/build/add-ins/gamespy/common/gsUdpEngine.c, TFP2_D_E
+RVLDWC/build/add-ins/gamespy/common/gsXML.c, TFP2_D_E
+RVLDWC/build/add-ins/gamespy/common/revolution/, TFP2_D_E
+RVLDWC/build/add-ins/gamespy/common/revolution/gsSocketRevolution.c, TFP2_D_E
+RVLDWC/build/add-ins/gamespy/common/revolution/gsThreadRevolution.c, TFP2_D_E
+RVLDWC/build/add-ins/gamespy/common/revolution/gsUtilRevolution.c, TFP2_D_E
+RVLDWC/build/add-ins/gamespy/darray.c, TFP2_D_E
+RVLDWC/build/add-ins/gamespy/ghttp/, TFP2_D_E
+RVLDWC/build/add-ins/gamespy/ghttp/ghttpBuffer.c, TFP2_D_E
+RVLDWC/build/add-ins/gamespy/ghttp/ghttpCallbacks.c, TFP2_D_E
+RVLDWC/build/add-ins/gamespy/ghttp/ghttpCommon.c, TFP2_D_E
+RVLDWC/build/add-ins/gamespy/ghttp/ghttpConnection.c, TFP2_D_E
+RVLDWC/build/add-ins/gamespy/ghttp/ghttpEncryption.c, TFP2_D_E
+RVLDWC/build/add-ins/gamespy/ghttp/ghttpMain.c, TFP2_D_E
+RVLDWC/build/add-ins/gamespy/ghttp/ghttpPost.c, TFP2_D_E
+RVLDWC/build/add-ins/gamespy/ghttp/ghttpProcess.c, TFP2_D_E
+RVLDWC/build/add-ins/gamespy/gp/, TFP2_D_E
+RVLDWC/build/add-ins/gamespy/gp/gp.c, TFP2_D_E
+RVLDWC/build/add-ins/gamespy/gp/gpi.c, TFP2_D_E
+RVLDWC/build/add-ins/gamespy/gp/gpiBuddy.c, TFP2_D_E
+RVLDWC/build/add-ins/gamespy/gp/gpiBuffer.c, TFP2_D_E
+RVLDWC/build/add-ins/gamespy/gp/gpiCallback.c, TFP2_D_E
+RVLDWC/build/add-ins/gamespy/gp/gpiConnect.c, TFP2_D_E
+RVLDWC/build/add-ins/gamespy/gp/gpiInfo.c, TFP2_D_E
+RVLDWC/build/add-ins/gamespy/gp/gpiKeys.c, TFP2_D_E
+RVLDWC/build/add-ins/gamespy/gp/gpiOperation.c, TFP2_D_E
+RVLDWC/build/add-ins/gamespy/gp/gpiPeer.c, TFP2_D_E
+RVLDWC/build/add-ins/gamespy/gp/gpiProfile.c, TFP2_D_E
+RVLDWC/build/add-ins/gamespy/gp/gpiSearch.c, TFP2_D_E
+RVLDWC/build/add-ins/gamespy/gp/gpiTransfer.c, TFP2_D_E
+RVLDWC/build/add-ins/gamespy/gp/gpiUnique.c, TFP2_D_E
+RVLDWC/build/add-ins/gamespy/gp/gpiUtility.c, TFP2_D_E
+RVLDWC/build/add-ins/gamespy/gstats/, TFP2_D_E
+RVLDWC/build/add-ins/gamespy/gstats/gbucket.c, TFP2_D_E
+RVLDWC/build/add-ins/gamespy/gstats/gstats.c, TFP2_D_E
+RVLDWC/build/add-ins/gamespy/gt2/, TFP2_D_E
+RVLDWC/build/add-ins/gamespy/gt2/gt2Auth.c, TFP2_D_E
+RVLDWC/build/add-ins/gamespy/gt2/gt2Buffer.c, TFP2_D_E
+RVLDWC/build/add-ins/gamespy/gt2/gt2Connection.c, TFP2_D_E
+RVLDWC/build/add-ins/gamespy/gt2/gt2Filter.c, TFP2_D_E
+RVLDWC/build/add-ins/gamespy/gt2/gt2Main.c, TFP2_D_E
+RVLDWC/build/add-ins/gamespy/gt2/gt2Message.c, TFP2_D_E
+RVLDWC/build/add-ins/gamespy/gt2/gt2Socket.c, TFP2_D_E
+RVLDWC/build/add-ins/gamespy/gt2/gt2Utility.c, TFP2_D_E
+RVLDWC/build/add-ins/gamespy/hashtable.c, TFP2_D_E
+RVLDWC/build/add-ins/gamespy/md5c.c, TFP2_D_E
+RVLDWC/build/add-ins/gamespy/natneg/, TFP2_D_E
+RVLDWC/build/add-ins/gamespy/natneg/NATify.c, TFP2_D_E
+RVLDWC/build/add-ins/gamespy/natneg/natneg.c, TFP2_D_E
+RVLDWC/build/add-ins/gamespy/nonport.c, TFP2_D_E
+RVLDWC/build/add-ins/gamespy/qr2/, TFP2_D_E
+RVLDWC/build/add-ins/gamespy/qr2/qr2.c, TFP2_D_E
+RVLDWC/build/add-ins/gamespy/qr2/qr2regkeys.c, TFP2_D_E
+RVLDWC/build/add-ins/gamespy/serverbrowsing/, TFP2_D_E
+RVLDWC/build/add-ins/gamespy/serverbrowsing/sb_crypt.c, TFP2_D_E
+RVLDWC/build/add-ins/gamespy/serverbrowsing/sb_queryengine.c, TFP2_D_E
+RVLDWC/build/add-ins/gamespy/serverbrowsing/sb_server.c, TFP2_D_E
+RVLDWC/build/add-ins/gamespy/serverbrowsing/sb_serverbrowsing.c, TFP2_D_E
+RVLDWC/build/add-ins/gamespy/serverbrowsing/sb_serverlist.c, TFP2_D_E
+RVLDWC/build/libraries/, TFP2_D_E
+RVLDWC/build/libraries/src/, TFP2_D_E
+RVLDWC/build/libraries/src/common/, TFP2_D_E
+RVLDWC/build/libraries/src/common/dwc_base64.c, TFP2_D_E
+RVLDWC/build/libraries/src/common/dwc_error.c, TFP2_D_E
+RVLDWC/build/libraries/src/common/dwc_init.c, TFP2_D_E
+RVLDWC/build/libraries/src/common/dwc_memfunc.c, TFP2_D_E
+RVLDWC/build/libraries/src/common/dwc_memman.c, TFP2_D_E
+RVLDWC/build/libraries/src/common/dwc_report.c, TFP2_D_E
+RVLDWC/build/libraries/src/gdb/, TFP2_D_E
+RVLDWC/build/libraries/src/gdb/dwc_gdb.c, TFP2_D_E
+RVLDWC/build/libraries/src/ghttp/, TFP2_D_E
+RVLDWC/build/libraries/src/ghttp/dwc_ghttp.c, TFP2_D_E
+RVLDWC/build/libraries/src/lanmatch/, TFP2_D_E
+RVLDWC/build/libraries/src/lanmatch/dwc_lanmatch.c, TFP2_D_E
+RVLDWC/build/libraries/src/match/, TFP2_D_E
+RVLDWC/build/libraries/src/match/dwc_common.c, TFP2_D_E
+RVLDWC/build/libraries/src/match/dwc_friend.c, TFP2_D_E
+RVLDWC/build/libraries/src/match/dwc_login.c, TFP2_D_E
+RVLDWC/build/libraries/src/match/dwc_main.c, TFP2_D_E
+RVLDWC/build/libraries/src/match/dwc_match.c, TFP2_D_E
+RVLDWC/build/libraries/src/match/dwc_reliable.c, TFP2_D_E
+RVLDWC/build/libraries/src/match/dwc_transport.c, TFP2_D_E
+RVLDWC/build/libraries/src/nonport/, TFP2_D_E
+RVLDWC/build/libraries/src/nonport/common/, TFP2_D_E
+RVLDWC/build/libraries/src/nonport/common/dwc_nonport.c, TFP2_D_E
+RVLDWC/build/libraries/src/nonport/revolution/, TFP2_D_E
+RVLDWC/build/libraries/src/nonport/revolution/dwc_nonport.c, TFP2_D_E
+RVLDWC/build/libraries/src/nonport/revolution/dwci_np_math.c, TFP2_D_E
+RVLDWC/build/libraries/src/ranking/, TFP2_D_E
+RVLDWC/build/libraries/src/ranking/dwc_ranking.c, TFP2_D_E
+RVLDWC/build/options/, TFP2_D_E
+RVLDWC/build/options/src/, TFP2_D_E
+RVLDWC/build/options/src/cfriend/, TFP2_D_E
+RVLDWC/build/options/src/cfriend/dwc_cfriend.c, TFP2_D_E
+RVLDWC/build/secret/, TFP2_D_E
+RVLDWC/build/secret/src/, TFP2_D_E
+RVLDWC/build/secret/src/account/, TFP2_D_E
+RVLDWC/build/secret/src/account/dwc_account.c, TFP2_D_E
+RVLDWC/build/secret/src/auth/, TFP2_D_E
+RVLDWC/build/secret/src/auth/revolution/, TFP2_D_E
+RVLDWC/build/secret/src/auth/revolution/dwc_auth_interface.c, TFP2_D_E
+RVLDWC/build/secret/src/enc/, TFP2_D_E
+RVLDWC/build/secret/src/enc/dwc_encsession.c, TFP2_D_E
+RVLDWC/build/secret/src/nas/, TFP2_D_E
+RVLDWC/build/secret/src/nas/dwc_naslogin.c, TFP2_D_E
+RVLDWC/build/secret/src/nas/dwc_nastime.c, TFP2_D_E
+RVLDWC/build/secret/src/ranking/, TFP2_D_E
+RVLDWC/build/secret/src/ranking/dwc_ranksession.c, TFP2_D_E
+RVLDWC/include/, JD4; TFP2_D_D; TFP2_D_E
+RVLDWC/include/account/, TFP2_D_D
+RVLDWC/include/account/dwc_account.h, TFP2_D_D
+RVLDWC/include/cfriend/, TFP2_D_D
+RVLDWC/include/cfriend/dwc_cfriend.h, TFP2_D_D
+RVLDWC/include/common/, JD4; TFP2_D_D
+RVLDWC/include/common/dwc_base64.h, JD4; TFP2_D_D
+RVLDWC/include/common/dwc_error.h, JD4; TFP2_D_D
+RVLDWC/include/common/dwc_init.h, JD4; TFP2_D_D
+RVLDWC/include/common/dwc_memfunc.h, JD4; TFP2_D_D
+RVLDWC/include/common/dwc_report.h, JD4; TFP2_D_D
+RVLDWC/include/conntest/, JD4; TFP2_D_D
+RVLDWC/include/conntest/dwc_conntest.h, JD4; TFP2_D_D
+RVLDWC/include/dwc.h, JD4; TFP2_D_D
+RVLDWC/include/dwc_version.h, JD4; TFP2_D_D
+RVLDWC/include/ghttp/, TFP2_D_D
+RVLDWC/include/ghttp/dwc_ghttp.h, TFP2_D_D
+RVLDWC/include/lanmatch/, TFP2_D_D
+RVLDWC/include/lanmatch/dwc_lanmatch.h, TFP2_D_D
+RVLDWC/include/match/, TFP2_D_D
+RVLDWC/include/match/dwc_common.h, TFP2_D_D
+RVLDWC/include/match/dwc_core.h, TFP2_D_D
+RVLDWC/include/match/dwc_datastorage.h, TFP2_D_D
+RVLDWC/include/match/dwc_friend.h, TFP2_D_D
+RVLDWC/include/match/dwc_login.h, TFP2_D_D
+RVLDWC/include/match/dwc_main.h, TFP2_D_D
+RVLDWC/include/match/dwc_match.h, TFP2_D_D
+RVLDWC/include/match/dwc_transport.h, TFP2_D_D
+RVLDWC/include/nas/, JD4; TFP2_D_D
+RVLDWC/include/nas/dwc_nas.h, JD4; TFP2_D_D
+RVLDWC/include/nas/dwc_naslogin.h, JD4; TFP2_D_D
+RVLDWC/include/nas/dwc_nastime.h, JD4; TFP2_D_D
+RVLDWC/include/nd/, JD4; TFP2_D_D
+RVLDWC/include/nd/dwc_nd.h, JD4; TFP2_D_D
+RVLDWC/include/nonport/, JD4; TFP2_D_D; TFP2_D_E
+RVLDWC/include/nonport/common/, JD4; TFP2_D_D; TFP2_D_E
+RVLDWC/include/nonport/common/dwc_nonport.h, JD4; TFP2_D_D; TFP2_D_E
+RVLDWC/include/nonport/dwc_nonport.h, JD4; TFP2_D_D
+RVLDWC/include/nonport/revolution/, JD4; TFP2_D_D; TFP2_D_E
+RVLDWC/include/nonport/revolution/dwc_nonport.h, JD4; TFP2_D_D; TFP2_D_E
+RVLDWC/include/nonport/revolution/dwci_np_math.h, JD4; TFP2_D_D; TFP2_D_E
+RVLDWC/include/nonport/revolution/dwci_np_types.h, JD4; TFP2_D_D
+RVLDWC/include/prof/, JD4; TFP2_D_D
+RVLDWC/include/prof/dwc_prof.h, JD4; TFP2_D_D
+RVLDWC/include/ranking/, TFP2_D_D
+RVLDWC/include/ranking/dwc_ranking.h, TFP2_D_D
+RVLDWC/include/svl/, JD4; TFP2_D_D
+RVLDWC/include/svl/dwc_svl.h, JD4; TFP2_D_D

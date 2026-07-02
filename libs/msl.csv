@@ -1,0 +1,295 @@
+PowerPC_EABI_Support/, BBA_D; CMWP_D; Gor_D_E; Gor_D_M; ISSM_D; JD4; KDSCE_M; SdR_D; TFP2_D_D; TFP2_D_E
+PowerPC_EABI_Support/Include/, CMWP_D; Gor_D_E
+PowerPC_EABI_Support/Include/Prefix/, CMWP_D; Gor_D_E
+PowerPC_EABI_Support/Include/Prefix/RVL_Debug_Prefix.h, Gor_D_E
+PowerPC_EABI_Support/Include/Prefix/RVL_Release_Prefix.h, Gor_D_E
+PowerPC_EABI_Support/MSL/, BBA_D; CMWP_D; Gor_D_E; ISSM_D; JD4; KDSCE_M; SdR_D; TFP2_D_D; TFP2_D_E
+PowerPC_EABI_Support/MSL/MSL_C/, BBA_D; CMWP_D; Gor_D_E; ISSM_D; JD4; KDSCE_M; SdR_D; TFP2_D_D; TFP2_D_E
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common/, BBA_D; CMWP_D; Gor_D_E; ISSM_D; JD4; KDSCE_M; SdR_D; TFP2_D_D; TFP2_D_E
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common/Include/, CMWP_D; Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D; TFP2_D_E
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common/Include/ansi_parms.h, Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common/Include/assert.h, Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common/Include/assert_api.h, Gor_D_E; ISSM_D; SdR_D; TFP2_D_D
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common/Include/cassert, Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common/Include/cctype, Gor_D_E; ISSM_D; JD4; SdR_D
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common/Include/cerrno, Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common/Include/cfloat, Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common/Include/climits, Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common/Include/clocale, ISSM_D; SdR_D; TFP2_D_D
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common/Include/cmath, Gor_D_E; ISSM_D; SdR_D; TFP2_D_D; TFP2_D_E
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common/Include/csetjmp, ISSM_D; SdR_D
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common/Include/csignal, SdR_D
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common/Include/cstdarg, Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common/Include/cstddef, Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common/Include/cstdint, Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common/Include/cstdio, Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common/Include/cstdlib, Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common/Include/cstring, Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common/Include/ctime, Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common/Include/ctype.h, Gor_D_E; JD4; ISSM_D; SdR_D
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common/Include/ctype_api.h, Gor_D_E; JD4; ISSM_D; SdR_D
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common/Include/cwchar, Gor_D_E; ISSM_D; JD4; TFP2_D_D
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common/Include/cwctype, ISSM_D; SdR_D
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common/Include/div_t.h, Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common/Include/eof.h, Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common/Include/errno.h, Gor_D_E; ISSM_D; SdR_D
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common/Include/extras_stdlib.h, Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common/Include/extras_string.h, Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common/Include/extras_time.h, Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common/Include/extras_wchar.h, Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common/Include/fcntl.h, JD4; TFP2_D_D
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common/Include/file_struc.h, Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common/Include/float.h, Gor_D_E; JD4; ISSM_D; SdR_D
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common/Include/limits.h, Gor_D_E; ISSM_D; SdR_D
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common/Include/limits_api.h, Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common/Include/locale.h, TFP2_D_D; ISSM_D
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common/Include/locale_api.h, Gor_D_E; JD4; ISSM_D; SdR_D
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common/Include/math.h, Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common/Include/math_api.h, Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common/Include/math_config.h, Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common/Include/math_integral.h, Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common/Include/mem_funcs.h, Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common/Include/msl_c_version.h, Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common/Include/msl_cpp_std_wchar.h, Gor_D_E
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common/Include/msl_lib_ext1.h, Gor_D_E; JD4; ISSM_D; SdR_D
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common/Include/msl_rsize_t.h, Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common/Include/msl_secure.h, TFP2_D_D
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common/Include/msl_t.h, Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common/Include/mslGlobals.h, Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common/Include/null.h, Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common/Include/os_enum.h, Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common/Include/setjmp.h, ISSM_D; SdR_D
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common/Include/signal.h, SdR_D
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common/Include/size_t.h, Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common/Include/stdarg.h, Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common/Include/stdbool.h, JD4
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common/Include/stddef.h, Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common/Include/stdio.h, Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common/Include/stdio.posix.h, Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common/Include/stdio_api.h, Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common/Include/stdlib.h, Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common/Include/string.h, Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common/Include/string_api.h, Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common/Include/sys/, CMWP_D; JD4; SdR_D; TFP2_D_D
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common/Include/sys/stat.h, JD4; SdR_D; TFP2_D_D
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common/Include/time.h, ISSM_D
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common/Include/unistd.h, SdR_D
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common/Include/va_list.h, Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common/Include/wchar_io.h, Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common/Include/wchar_t.h, Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common/Include/wcstold.h, Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common/Include/wcstoul.h, Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common/Include/wctrans.h, ISSM_D; SdR_D
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common/Include/wctype.h, ISSM_D; SdR_D
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common/Include/wctype_api.h, ISSM_D; SdR_D
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common/Include/weof.h, Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common/Include/wmem.h, Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common/Include/wprintf.h, Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common/Include/wscanf.h, Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common/Include/wstdio.h, Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common/Include/wstring.h, Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common/Include/wtime.h, Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common/Src/, BBA_D; CMWP_D; Gor_D_M; KDSCE_M
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common/Src/alloc.o, CMWP_D; Gor_D_M; KDSCE_M
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common/Src/ansi_files.o, CMWP_D; Gor_D_M; KDSCE_M
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common/Src/arith.o, CMWP_D; Gor_D_M; KDSCE_M
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common/Src/assert.o, CMWP_D; Gor_D_M; KDSCE_M
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common/Src/bsearch.o, CMWP_D; Gor_D_M; KDSCE_M
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common/Src/buffer_io.o, CMWP_D; Gor_D_M; KDSCE_M
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common/Src/char_io.o, CMWP_D; Gor_D_M; KDSCE_M
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common/Src/ctype.o, CMWP_D; Gor_D_M; KDSCE_M
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common/Src/direct_io.o, CMWP_D; Gor_D_M; KDSCE_M
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common/Src/errno.o, CMWP_D; Gor_D_M; KDSCE_M
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common/Src/extras.o, BBA_D; CMWP_D; Gor_D_M; KDSCE_M
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common/Src/file_io.o, CMWP_D; Gor_D_M; KDSCE_M
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common/Src/FILE_POS.o, CMWP_D; Gor_D_M; KDSCE_M
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common/Src/float.o, CMWP_D; Gor_D_M; KDSCE_M
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common/Src/locale.o, CMWP_D; Gor_D_M; KDSCE_M
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common/Src/math_api.o, CMWP_D; Gor_D_M; KDSCE_M
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common/Src/math_double.o, CMWP_D; Gor_D_M; KDSCE_M
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common/Src/math_float.o, CMWP_D; KDSCE_M
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common/Src/math_fma.o, CMWP_D; KDSCE_M
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common/Src/math_longdouble.o, CMWP_D; KDSCE_M
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common/Src/mbstring.o, CMWP_D; Gor_D_M; KDSCE_M
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common/Src/mem.o, CMWP_D; Gor_D_M; KDSCE_M
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common/Src/mem_funcs.o, CMWP_D; Gor_D_M; KDSCE_M
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common/Src/misc_io.o, CMWP_D; Gor_D_M; KDSCE_M
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common/Src/pool_alloc.o, CMWP_D; KDSCE_M
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common/Src/printf.o, CMWP_D; Gor_D_M; KDSCE_M
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common/Src/qsort.o, CMWP_D; Gor_D_M; KDSCE_M
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common/Src/rand.o, CMWP_D; Gor_D_M; KDSCE_M
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common/Src/scanf.o, CMWP_D; Gor_D_M; KDSCE_M
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common/Src/secure_error.o, CMWP_D; Gor_D_M; KDSCE_M
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common/Src/signal.o, CMWP_D; Gor_D_M; KDSCE_M
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common/Src/stat.o, CMWP_D; KDSCE_M
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common/Src/stdio_posix.o, CMWP_D; KDSCE_M
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common/Src/string.o, CMWP_D; Gor_D_M; KDSCE_M
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common/Src/strtold.o, CMWP_D; Gor_D_M; KDSCE_M
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common/Src/strtoul.o, CMWP_D; Gor_D_M; KDSCE_M
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common/Src/thread_local_data_pthreads.o, CMWP_D; KDSCE_M
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common/Src/time.o, CMWP_D; KDSCE_M
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common/Src/wchar_io.o, CMWP_D; Gor_D_M; KDSCE_M
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common/Src/wcstold.o, CMWP_D; KDSCE_M
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common/Src/wcstoul.o, CMWP_D; KDSCE_M
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common/Src/wctrans.o, CMWP_D; KDSCE_M
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common/Src/wctype.o, CMWP_D; Gor_D_M; KDSCE_M
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common/Src/wmem.o, CMWP_D; Gor_D_M; KDSCE_M
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common/Src/wprintf.o, CMWP_D; Gor_D_M; KDSCE_M
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common/Src/wscanf.o, CMWP_D; KDSCE_M
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common/Src/wstring.o, CMWP_D; Gor_D_M; KDSCE_M
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common/Src/wtime.o, CMWP_D; KDSCE_M
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common_Embedded/, BBA_D; CMWP_D; Gor_D_M; KDSCE_M
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common_Embedded/Math/, BBA_D; CMWP_D; Gor_D_M; KDSCE_M
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common_Embedded/Math/Double_precision/, BBA_D; CMWP_D; Gor_D_M; KDSCE_M
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common_Embedded/Math/Double_precision/e_acos.o, BBA_D; CMWP_D; Gor_D_M; KDSCE_M
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common_Embedded/Math/Double_precision/e_acosh.o, CMWP_D; KDSCE_M
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common_Embedded/Math/Double_precision/e_asin.o, BBA_D; CMWP_D; Gor_D_M; KDSCE_M
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common_Embedded/Math/Double_precision/e_atan2.o, BBA_D; CMWP_D; Gor_D_M; KDSCE_M
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common_Embedded/Math/Double_precision/e_atanh.o, CMWP_D; KDSCE_M
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common_Embedded/Math/Double_precision/e_cosh.o, CMWP_D; KDSCE_M
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common_Embedded/Math/Double_precision/e_exp.o, BBA_D; CMWP_D; Gor_D_M; KDSCE_M
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common_Embedded/Math/Double_precision/e_fmod.o, BBA_D; CMWP_D; Gor_D_M; KDSCE_M
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common_Embedded/Math/Double_precision/e_gamma.o, CMWP_D; KDSCE_M
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common_Embedded/Math/Double_precision/e_gamma_r.o, CMWP_D; KDSCE_M
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common_Embedded/Math/Double_precision/e_hypot.o, CMWP_D; KDSCE_M
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common_Embedded/Math/Double_precision/e_lgamma.o, CMWP_D; KDSCE_M
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common_Embedded/Math/Double_precision/e_lgamma_r.o, CMWP_D; KDSCE_M
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common_Embedded/Math/Double_precision/e_log.o, BBA_D; CMWP_D; Gor_D_M; KDSCE_M
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common_Embedded/Math/Double_precision/e_log10.o, BBA_D; CMWP_D; Gor_D_M; KDSCE_M
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common_Embedded/Math/Double_precision/e_pow.o, BBA_D; CMWP_D; Gor_D_M; KDSCE_M
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common_Embedded/Math/Double_precision/e_rem_pio2.o, BBA_D; CMWP_D; Gor_D_M; KDSCE_M
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common_Embedded/Math/Double_precision/e_remainder.o, CMWP_D; KDSCE_M
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common_Embedded/Math/Double_precision/e_sinh.o, CMWP_D; KDSCE_M
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common_Embedded/Math/Double_precision/e_sqrt.o, BBA_D; CMWP_D; Gor_D_M; KDSCE_M
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common_Embedded/Math/Double_precision/fminmaxdim.o, CMWP_D; KDSCE_M
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common_Embedded/Math/Double_precision/k_cos.o, BBA_D; CMWP_D; Gor_D_M; KDSCE_M
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common_Embedded/Math/Double_precision/k_rem_pio2.o, BBA_D; CMWP_D; Gor_D_M; KDSCE_M
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common_Embedded/Math/Double_precision/k_sin.o, BBA_D; CMWP_D; Gor_D_M; KDSCE_M
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common_Embedded/Math/Double_precision/k_standard.o, CMWP_D; KDSCE_M
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common_Embedded/Math/Double_precision/k_tan.o, BBA_D; CMWP_D; Gor_D_M; KDSCE_M
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common_Embedded/Math/Double_precision/s_asinh.o, CMWP_D; KDSCE_M
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common_Embedded/Math/Double_precision/s_atan.o, BBA_D; CMWP_D; Gor_D_M; KDSCE_M
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common_Embedded/Math/Double_precision/s_cbrt.o, CMWP_D; KDSCE_M
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common_Embedded/Math/Double_precision/s_ceil.o, BBA_D; CMWP_D; Gor_D_M; KDSCE_M
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common_Embedded/Math/Double_precision/s_copysign.o, BBA_D; CMWP_D; Gor_D_M; KDSCE_M
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common_Embedded/Math/Double_precision/s_cos.o, BBA_D; CMWP_D; Gor_D_M; KDSCE_M
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common_Embedded/Math/Double_precision/s_erf.o, CMWP_D; KDSCE_M
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common_Embedded/Math/Double_precision/s_expm1.o, KDSCE_M
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common_Embedded/Math/Double_precision/s_floor.o, BBA_D; CMWP_D; Gor_D_M; KDSCE_M
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common_Embedded/Math/Double_precision/s_frexp.o, BBA_D; CMWP_D; Gor_D_M; KDSCE_M
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common_Embedded/Math/Double_precision/s_ldexp.o, BBA_D; CMWP_D; Gor_D_M; KDSCE_M
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common_Embedded/Math/Double_precision/s_lib_version.o, CMWP_D; KDSCE_M
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common_Embedded/Math/Double_precision/s_log1p.o, CMWP_D; KDSCE_M
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common_Embedded/Math/Double_precision/s_logb.o, CMWP_D; KDSCE_M
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common_Embedded/Math/Double_precision/s_matherr.o, CMWP_D; KDSCE_M
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common_Embedded/Math/Double_precision/s_modf.o, BBA_D; CMWP_D; KDSCE_M
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common_Embedded/Math/Double_precision/s_nextafter.o, CMWP_D; KDSCE_M
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common_Embedded/Math/Double_precision/s_rint.o, CMWP_D; KDSCE_M
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common_Embedded/Math/Double_precision/s_signgam.o, CMWP_D; KDSCE_M
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common_Embedded/Math/Double_precision/s_sin.o, BBA_D; CMWP_D; Gor_D_M; KDSCE_M
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common_Embedded/Math/Double_precision/s_tan.o, BBA_D; CMWP_D; Gor_D_M; KDSCE_M
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common_Embedded/Math/Double_precision/s_tanh.o, CMWP_D; KDSCE_M
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common_Embedded/Math/Double_precision/w_acos.o, BBA_D; CMWP_D; Gor_D_M; KDSCE_M
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common_Embedded/Math/Double_precision/w_acosh.o, CMWP_D; KDSCE_M
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common_Embedded/Math/Double_precision/w_asin.o, BBA_D; CMWP_D; Gor_D_M; KDSCE_M
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common_Embedded/Math/Double_precision/w_atan2.o, BBA_D; CMWP_D; Gor_D_M; KDSCE_M
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common_Embedded/Math/Double_precision/w_atanh.o, CMWP_D; KDSCE_M
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common_Embedded/Math/Double_precision/w_cosh.o, CMWP_D; KDSCE_M
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common_Embedded/Math/Double_precision/w_exp.o, BBA_D; CMWP_D; Gor_D_M; KDSCE_M
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common_Embedded/Math/Double_precision/w_fmod.o, BBA_D; CMWP_D; Gor_D_M; KDSCE_M
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common_Embedded/Math/Double_precision/w_gamma.o, CMWP_D; KDSCE_M
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common_Embedded/Math/Double_precision/w_gamma_r.o, CMWP_D; KDSCE_M
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common_Embedded/Math/Double_precision/w_hypot.o, CMWP_D; KDSCE_M
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common_Embedded/Math/Double_precision/w_lgamma.o, CMWP_D; KDSCE_M
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common_Embedded/Math/Double_precision/w_lgamma_r.o, CMWP_D; KDSCE_M
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common_Embedded/Math/Double_precision/w_log.o, BBA_D; CMWP_D; Gor_D_M; KDSCE_M
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common_Embedded/Math/Double_precision/w_log10.o, BBA_D; CMWP_D; Gor_D_M; KDSCE_M
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common_Embedded/Math/Double_precision/w_pow.o, BBA_D; CMWP_D; Gor_D_M; KDSCE_M
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common_Embedded/Math/Double_precision/w_remainder.o, CMWP_D; KDSCE_M
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common_Embedded/Math/Double_precision/w_sinh.o, CMWP_D; KDSCE_M
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common_Embedded/Math/Double_precision/w_sqrt.o, BBA_D; CMWP_D; Gor_D_M; KDSCE_M
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common_Embedded/Src/, CMWP_D; Gor_D_M; KDSCE_M
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common_Embedded/Src/ansi_fp.o, CMWP_D; Gor_D_M; KDSCE_M
+PowerPC_EABI_Support/MSL/MSL_C/MSL_Common_Embedded/Src/math_sun.o, CMWP_D; Gor_D_M; KDSCE_M
+PowerPC_EABI_Support/MSL/MSL_C/PPC_EABI/, BBA_D; CMWP_D; Gor_D_E; Gor_D_M; ISSM_D; JD4; KDSCE_M; SdR_D
+PowerPC_EABI_Support/MSL/MSL_C/PPC_EABI/Include/, CMWP_D; Gor_D_E; ISSM_D; JD4; SdR_D
+PowerPC_EABI_Support/MSL/MSL_C/PPC_EABI/Include/ansi_prefix.PPCEABI.Gamecube.h, Gor_D_E; ISSM_D; JD4; SdR_D
+PowerPC_EABI_Support/MSL/MSL_C/PPC_EABI/Include/dtrigf.h, ISSM_D; JD4
+PowerPC_EABI_Support/MSL/MSL_C/PPC_EABI/Include/math_ppc.h, Gor_D_E; ISSM_D; JD4; SdR_D
+PowerPC_EABI_Support/MSL/MSL_C/PPC_EABI/Include/math_ppc_inlines.h, Gor_D_E; ISSM_D; JD4; SdR_D
+PowerPC_EABI_Support/MSL/MSL_C/PPC_EABI/Include/setjmp.EPPC.h, ISSM_D; SdR_D
+PowerPC_EABI_Support/MSL/MSL_C/PPC_EABI/Include/stdarg.EPPC.h, Gor_D_E; ISSM_D; JD4; SdR_D
+PowerPC_EABI_Support/MSL/MSL_C/PPC_EABI/Include/time.dolphin.h, Gor_D_E; ISSM_D; JD4; SdR_D
+PowerPC_EABI_Support/MSL/MSL_C/PPC_EABI/Src/, BBA_D; CMWP_D; Gor_D_M; KDSCE_M
+PowerPC_EABI_Support/MSL/MSL_C/PPC_EABI/Src/abort_exit_ppc_eabi.o, CMWP_D; Gor_D_M; KDSCE_M
+PowerPC_EABI_Support/MSL/MSL_C/PPC_EABI/Src/assert.gcn.o, CMWP_D; KDSCE_M
+PowerPC_EABI_Support/MSL/MSL_C/PPC_EABI/Src/critical_regions.gamecube.o, CMWP_D; KDSCE_M
+PowerPC_EABI_Support/MSL/MSL_C/PPC_EABI/Src/fenv.ppc.o, CMWP_D; KDSCE_M
+PowerPC_EABI_Support/MSL/MSL_C/PPC_EABI/Src/math_ppc.o, BBA_D; CMWP_D; Gor_D_M; KDSCE_M
+PowerPC_EABI_Support/MSL/MSL_C/PPC_EABI/Src/sysenv.GCN.o, CMWP_D; Gor_D_M; KDSCE_M
+PowerPC_EABI_Support/MSL/MSL_C/PPC_EABI/Src/time.dolphin.o, CMWP_D; KDSCE_M
+PowerPC_EABI_Support/MSL/MSL_C/PPC_EABI/Src/uart_console_io_gcn.o, CMWP_D; Gor_D_M; KDSCE_M
+PowerPC_EABI_Support/MSL/MSL_C++/, CMWP_D; Gor_D_E; Gor_D_M; ISSM_D; JD4; KDSCE_M; SdR_D; TFP2_D_D; TFP2_D_E
+PowerPC_EABI_Support/MSL/MSL_C++/MSL_Common/, CMWP_D; Gor_D_E; Gor_D_M; ISSM_D; JD4; KDSCE_M; SdR_D; TFP2_D_D; TFP2_D_E
+PowerPC_EABI_Support/MSL/MSL_C++/MSL_Common/Include/, CMWP_D; Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D; TFP2_D_E
+PowerPC_EABI_Support/MSL/MSL_C++/MSL_Common/Include/algorithm, Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D; TFP2_D_E
+PowerPC_EABI_Support/MSL/MSL_C++/MSL_Common/Include/bitset, Gor_D_E; SdR_D
+PowerPC_EABI_Support/MSL/MSL_C++/MSL_Common/Include/bitvector, Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D
+PowerPC_EABI_Support/MSL/MSL_C++/MSL_Common/Include/cdeque, SdR_D
+PowerPC_EABI_Support/MSL/MSL_C++/MSL_Common/Include/codecvt, SdR_D
+PowerPC_EABI_Support/MSL/MSL_C++/MSL_Common/Include/ctype, Gor_D_E; JD4; SdR_D
+PowerPC_EABI_Support/MSL/MSL_C++/MSL_Common/Include/deque, SdR_D
+PowerPC_EABI_Support/MSL/MSL_C++/MSL_Common/Include/exception, Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D
+PowerPC_EABI_Support/MSL/MSL_C++/MSL_Common/Include/fstream, SdR_D
+PowerPC_EABI_Support/MSL/MSL_C++/MSL_Common/Include/functional, Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D
+PowerPC_EABI_Support/MSL/MSL_C++/MSL_Common/Include/hash_fun, SdR_D
+PowerPC_EABI_Support/MSL/MSL_C++/MSL_Common/Include/hash_map, SdR_D
+PowerPC_EABI_Support/MSL/MSL_C++/MSL_Common/Include/hash_set, SdR_D
+PowerPC_EABI_Support/MSL/MSL_C++/MSL_Common/Include/hash_table, SdR_D
+PowerPC_EABI_Support/MSL/MSL_C++/MSL_Common/Include/iomanip, SdR_D
+PowerPC_EABI_Support/MSL/MSL_C++/MSL_Common/Include/ios, Gor_D_E; JD4; SdR_D
+PowerPC_EABI_Support/MSL/MSL_C++/MSL_Common/Include/iosfwd, Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D
+PowerPC_EABI_Support/MSL/MSL_C++/MSL_Common/Include/iostream, Gor_D_E; SdR_D
+PowerPC_EABI_Support/MSL/MSL_C++/MSL_Common/Include/istream, Gor_D_E; SdR_D
+PowerPC_EABI_Support/MSL/MSL_C++/MSL_Common/Include/iterator, Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D; TFP2_D_E
+PowerPC_EABI_Support/MSL/MSL_C++/MSL_Common/Include/limits, Gor_D_E; SdR_D; TFP2_D_E
+PowerPC_EABI_Support/MSL/MSL_C++/MSL_Common/Include/list, Gor_D_E; ISSM_D; JD4; SdR_D
+PowerPC_EABI_Support/MSL/MSL_C++/MSL_Common/Include/localeimp, Gor_D_E; JD4; SdR_D
+PowerPC_EABI_Support/MSL/MSL_C++/MSL_Common/Include/map, Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D
+PowerPC_EABI_Support/MSL/MSL_C++/MSL_Common/Include/memory, Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D
+PowerPC_EABI_Support/MSL/MSL_C++/MSL_Common/Include/msl_int_limits, Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D
+PowerPC_EABI_Support/MSL/MSL_C++/MSL_Common/Include/msl_smart_pointers, Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D
+PowerPC_EABI_Support/MSL/MSL_C++/MSL_Common/Include/msl_utility, Gor_D_E; ISSM_D; JD4; TFP2_D_D; SdR_D; TFP2_D_E
+PowerPC_EABI_Support/MSL/MSL_C++/MSL_Common/Include/mslconfig, Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D
+PowerPC_EABI_Support/MSL/MSL_C++/MSL_Common/Include/MSLstring.h, Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D
+PowerPC_EABI_Support/MSL/MSL_C++/MSL_Common/Include/new, Gor_D_E; ISSM_D; JD4; TFP2_D_D; SdR_D; TFP2_D_E
+PowerPC_EABI_Support/MSL/MSL_C++/MSL_Common/Include/niostream, Gor_D_E; SdR_D
+PowerPC_EABI_Support/MSL/MSL_C++/MSL_Common/Include/numfacet, Gor_D_E; JD4; SdR_D
+PowerPC_EABI_Support/MSL/MSL_C++/MSL_Common/Include/ostream, Gor_D_E; JD4; SdR_D
+PowerPC_EABI_Support/MSL/MSL_C++/MSL_Common/Include/queue, SdR_D
+PowerPC_EABI_Support/MSL/MSL_C++/MSL_Common/Include/set, Gor_D_E; SdR_D
+PowerPC_EABI_Support/MSL/MSL_C++/MSL_Common/Include/sstream, Gor_D_E; SdR_D
+PowerPC_EABI_Support/MSL/MSL_C++/MSL_Common/Include/stdexcept, Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D
+PowerPC_EABI_Support/MSL/MSL_C++/MSL_Common/Include/streambuf, Gor_D_E; JD4; SdR_D
+PowerPC_EABI_Support/MSL/MSL_C++/MSL_Common/Include/string, Gor_D_E; ISSM_D; JD4; SdR_D
+PowerPC_EABI_Support/MSL/MSL_C++/MSL_Common/Include/stringfwd, Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D
+PowerPC_EABI_Support/MSL/MSL_C++/MSL_Common/Include/tree, Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D
+PowerPC_EABI_Support/MSL/MSL_C++/MSL_Common/Include/typeinfo, Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D
+PowerPC_EABI_Support/MSL/MSL_C++/MSL_Common/Include/utility, Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D
+PowerPC_EABI_Support/MSL/MSL_C++/MSL_Common/Include/vector, Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D
+PowerPC_EABI_Support/MSL/MSL_C++/MSL_Common/Include/wiostream, Gor_D_E; SdR_D
+PowerPC_EABI_Support/MSL/MSL_C++/MSL_Common/Src/, CMWP_D; Gor_D_M; KDSCE_M
+PowerPC_EABI_Support/MSL/MSL_C++/MSL_Common/Src/complex.o, CMWP_D; KDSCE_M
+PowerPC_EABI_Support/MSL/MSL_C++/MSL_Common/Src/ios.o, CMWP_D; Gor_D_M; KDSCE_M
+PowerPC_EABI_Support/MSL/MSL_C++/MSL_Common/Src/iostream.o, CMWP_D; Gor_D_M; KDSCE_M
+PowerPC_EABI_Support/MSL/MSL_C++/MSL_Common/Src/locale.o, CMWP_D; Gor_D_M; KDSCE_M
+PowerPC_EABI_Support/MSL/MSL_C++/MSL_Common/Src/msl_mutex.o, CMWP_D; KDSCE_M
+PowerPC_EABI_Support/MSL/MSL_C++/MSL_Common/Src/msl_thread.o, CMWP_D; Gor_D_M; KDSCE_M
+PowerPC_EABI_Support/MSL/MSL_C++/MSL_Common/Src/MSLstring.o, CMWP_D; KDSCE_M
+PowerPC_EABI_Support/MSL/MSL_C++/MSL_Common/Src/strstream.o, CMWP_D; KDSCE_M
+PowerPC_EABI_Support/MSL/MSL_C++/PPC_EABI/, CMWP_D; Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D
+PowerPC_EABI_Support/MSL/MSL_C++/PPC_EABI/Include/, CMWP_D; Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D
+PowerPC_EABI_Support/MSL/MSL_C++/PPC_EABI/Include/mslconfig_GCN, Gor_D_E; ISSM_D; JD4; SdR_D; TFP2_D_D
+PowerPC_EABI_Support/Runtime/, CMWP_D; Gor_D_E; ISSM_D
+PowerPC_EABI_Support/Runtime/Inc/, CMWP_D; Gor_D_E; ISSM_D
+PowerPC_EABI_Support/Runtime/Inc/alloca.h, Gor_D_E; ISSM_D
